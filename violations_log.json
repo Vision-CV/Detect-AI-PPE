@@ -1,0 +1,7650 @@
+[
+  {
+    "timestamp": "2026-04-15T22:55:07.604845",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      769,
+      311,
+      826,
+      426
+    ],
+    "confidence": 0.6329039931297302,
+    "frame_path": "violations\\20260415_225507_604_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:55:41.502923",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      123,
+      310,
+      171,
+      436
+    ],
+    "confidence": 0.7792772650718689,
+    "frame_path": "violations\\20260415_225541_502_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:55:49.081978",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      739,
+      303,
+      776,
+      425
+    ],
+    "confidence": 0.6449760794639587,
+    "frame_path": "violations\\20260415_225549_081_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:55:49.429084",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      747,
+      304,
+      821,
+      427
+    ],
+    "confidence": 0.8374817967414856,
+    "frame_path": "violations\\20260415_225549_429_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:40.535341",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      301,
+      34,
+      458,
+      168
+    ],
+    "confidence": 0.9098725318908691,
+    "frame_path": "violations\\20260415_225640_535_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:40.539016",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      63,
+      83,
+      144
+    ],
+    "confidence": 0.7814010977745056,
+    "frame_path": "violations\\20260415_225640_539_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:40.875054",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      301,
+      32,
+      459,
+      169
+    ],
+    "confidence": 0.913875937461853,
+    "frame_path": "violations\\20260415_225640_875_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:40.878232",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      61,
+      83,
+      143
+    ],
+    "confidence": 0.8185057640075684,
+    "frame_path": "violations\\20260415_225640_878_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:41.324155",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      60,
+      82,
+      143
+    ],
+    "confidence": 0.8222802877426147,
+    "frame_path": "violations\\20260415_225641_324_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:41.457380",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      301,
+      30,
+      458,
+      169
+    ],
+    "confidence": 0.9095420241355896,
+    "frame_path": "violations\\20260415_225641_457_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:41.699678",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      60,
+      84,
+      143
+    ],
+    "confidence": 0.8174638748168945,
+    "frame_path": "violations\\20260415_225641_699_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:41.820975",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      29,
+      458,
+      166
+    ],
+    "confidence": 0.9043958783149719,
+    "frame_path": "violations\\20260415_225641_820_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:42.090822",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      60,
+      84,
+      143
+    ],
+    "confidence": 0.8199954628944397,
+    "frame_path": "violations\\20260415_225642_090_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:42.339813",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      32,
+      459,
+      168
+    ],
+    "confidence": 0.9158164858818054,
+    "frame_path": "violations\\20260415_225642_339_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:42.468406",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      61,
+      85,
+      143
+    ],
+    "confidence": 0.8067552447319031,
+    "frame_path": "violations\\20260415_225642_468_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:42.707479",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      33,
+      459,
+      167
+    ],
+    "confidence": 0.9099083542823792,
+    "frame_path": "violations\\20260415_225642_707_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:42.829754",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      61,
+      84,
+      143
+    ],
+    "confidence": 0.7847123742103577,
+    "frame_path": "violations\\20260415_225642_829_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:43.192077",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      62,
+      84,
+      145
+    ],
+    "confidence": 0.7705524563789368,
+    "frame_path": "violations\\20260415_225643_192_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:43.533400",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      63,
+      87,
+      146
+    ],
+    "confidence": 0.8020216226577759,
+    "frame_path": "violations\\20260415_225643_533_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:43.537160",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      35,
+      459,
+      173
+    ],
+    "confidence": 0.9125027656555176,
+    "frame_path": "violations\\20260415_225643_537_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:43.872752",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      87,
+      146
+    ],
+    "confidence": 0.801751434803009,
+    "frame_path": "violations\\20260415_225643_872_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:43.876525",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      459,
+      174
+    ],
+    "confidence": 0.9142205715179443,
+    "frame_path": "violations\\20260415_225643_876_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:44.227341",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      63,
+      86,
+      146
+    ],
+    "confidence": 0.7928857207298279,
+    "frame_path": "violations\\20260415_225644_227_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:44.230959",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      459,
+      173
+    ],
+    "confidence": 0.9077919721603394,
+    "frame_path": "violations\\20260415_225644_230_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:44.575305",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      88,
+      147
+    ],
+    "confidence": 0.8003776669502258,
+    "frame_path": "violations\\20260415_225644_575_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:44.694163",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      37,
+      459,
+      174
+    ],
+    "confidence": 0.8906109929084778,
+    "frame_path": "violations\\20260415_225644_694_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:44.929353",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      88,
+      148
+    ],
+    "confidence": 0.788400411605835,
+    "frame_path": "violations\\20260415_225644_929_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:45.040293",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      37,
+      459,
+      175
+    ],
+    "confidence": 0.9040829539299011,
+    "frame_path": "violations\\20260415_225645_040_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:45.264629",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      65,
+      87,
+      146
+    ],
+    "confidence": 0.8154882788658142,
+    "frame_path": "violations\\20260415_225645_264_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:45.371790",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      37,
+      459,
+      174
+    ],
+    "confidence": 0.9099056720733643,
+    "frame_path": "violations\\20260415_225645_371_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:45.609966",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      64,
+      88,
+      147
+    ],
+    "confidence": 0.8067675828933716,
+    "frame_path": "violations\\20260415_225645_609_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:45.732439",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      459,
+      174
+    ],
+    "confidence": 0.9121807217597961,
+    "frame_path": "violations\\20260415_225645_732_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:45.973351",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      63,
+      88,
+      146
+    ],
+    "confidence": 0.8056095838546753,
+    "frame_path": "violations\\20260415_225645_973_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:46.095586",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      35,
+      459,
+      173
+    ],
+    "confidence": 0.9100324511528015,
+    "frame_path": "violations\\20260415_225646_095_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:46.338421",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      62,
+      86,
+      145
+    ],
+    "confidence": 0.7971789240837097,
+    "frame_path": "violations\\20260415_225646_338_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:46.453417",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      35,
+      459,
+      169
+    ],
+    "confidence": 0.913561224937439,
+    "frame_path": "violations\\20260415_225646_453_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:46.753191",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      61,
+      86,
+      143
+    ],
+    "confidence": 0.8186095356941223,
+    "frame_path": "violations\\20260415_225646_753_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:46.874157",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      33,
+      460,
+      169
+    ],
+    "confidence": 0.9162150025367737,
+    "frame_path": "violations\\20260415_225646_874_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:47.113785",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      61,
+      86,
+      143
+    ],
+    "confidence": 0.8008280396461487,
+    "frame_path": "violations\\20260415_225647_113_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:47.234331",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      33,
+      459,
+      171
+    ],
+    "confidence": 0.9089505076408386,
+    "frame_path": "violations\\20260415_225647_234_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:47.473612",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      61,
+      86,
+      145
+    ],
+    "confidence": 0.7822761535644531,
+    "frame_path": "violations\\20260415_225647_473_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:47.690300",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      35,
+      460,
+      172
+    ],
+    "confidence": 0.9081166982650757,
+    "frame_path": "violations\\20260415_225647_690_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:47.814811",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      63,
+      87,
+      145
+    ],
+    "confidence": 0.7954283952713013,
+    "frame_path": "violations\\20260415_225647_814_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:48.048902",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      35,
+      460,
+      174
+    ],
+    "confidence": 0.9029092192649841,
+    "frame_path": "violations\\20260415_225648_048_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:48.168942",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      87,
+      146
+    ],
+    "confidence": 0.8085281252861023,
+    "frame_path": "violations\\20260415_225648_168_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:48.394676",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      460,
+      174
+    ],
+    "confidence": 0.8889161944389343,
+    "frame_path": "violations\\20260415_225648_394_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:48.560105",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      65,
+      88,
+      147
+    ],
+    "confidence": 0.8099328279495239,
+    "frame_path": "violations\\20260415_225648_560_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:48.793201",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      460,
+      173
+    ],
+    "confidence": 0.9062901735305786,
+    "frame_path": "violations\\20260415_225648_793_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:48.912353",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      88,
+      146
+    ],
+    "confidence": 0.818169355392456,
+    "frame_path": "violations\\20260415_225648_912_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:49.147950",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      37,
+      460,
+      174
+    ],
+    "confidence": 0.9074010848999023,
+    "frame_path": "violations\\20260415_225649_147_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:49.276534",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      88,
+      147
+    ],
+    "confidence": 0.8133411407470703,
+    "frame_path": "violations\\20260415_225649_276_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:49.628080",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      65,
+      88,
+      146
+    ],
+    "confidence": 0.8186172246932983,
+    "frame_path": "violations\\20260415_225649_628_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:49.967589",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      65,
+      88,
+      148
+    ],
+    "confidence": 0.8109013438224792,
+    "frame_path": "violations\\20260415_225649_967_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:50.200252",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      37,
+      460,
+      173
+    ],
+    "confidence": 0.9085531830787659,
+    "frame_path": "violations\\20260415_225650_200_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:50.325690",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      64,
+      88,
+      147
+    ],
+    "confidence": 0.7992780208587646,
+    "frame_path": "violations\\20260415_225650_325_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:50.556885",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      36,
+      460,
+      175
+    ],
+    "confidence": 0.9130791425704956,
+    "frame_path": "violations\\20260415_225650_556_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:50.673510",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      88,
+      146
+    ],
+    "confidence": 0.8097047209739685,
+    "frame_path": "violations\\20260415_225650_673_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:50.904268",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      36,
+      460,
+      175
+    ],
+    "confidence": 0.9116650819778442,
+    "frame_path": "violations\\20260415_225650_904_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:51.011609",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      64,
+      87,
+      147
+    ],
+    "confidence": 0.7995531558990479,
+    "frame_path": "violations\\20260415_225651_011_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:51.374477",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      63,
+      88,
+      145
+    ],
+    "confidence": 0.7920576930046082,
+    "frame_path": "violations\\20260415_225651_374_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:51.620531",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      35,
+      460,
+      174
+    ],
+    "confidence": 0.9059078693389893,
+    "frame_path": "violations\\20260415_225651_620_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:51.741765",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      63,
+      88,
+      145
+    ],
+    "confidence": 0.8222929239273071,
+    "frame_path": "violations\\20260415_225651_741_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:51.990859",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      460,
+      175
+    ],
+    "confidence": 0.9155920147895813,
+    "frame_path": "violations\\20260415_225651_990_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:52.103425",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      64,
+      88,
+      146
+    ],
+    "confidence": 0.8259484171867371,
+    "frame_path": "violations\\20260415_225652_103_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:52.332182",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      36,
+      460,
+      175
+    ],
+    "confidence": 0.9080227017402649,
+    "frame_path": "violations\\20260415_225652_332_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:52.441227",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      64,
+      89,
+      146
+    ],
+    "confidence": 0.8254296779632568,
+    "frame_path": "violations\\20260415_225652_441_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:52.685725",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      37,
+      460,
+      176
+    ],
+    "confidence": 0.907053530216217,
+    "frame_path": "violations\\20260415_225652_685_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:52.802967",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      64,
+      89,
+      146
+    ],
+    "confidence": 0.8135932087898254,
+    "frame_path": "violations\\20260415_225652_802_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:53.036356",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      37,
+      460,
+      174
+    ],
+    "confidence": 0.9044570922851562,
+    "frame_path": "violations\\20260415_225653_036_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:53.158870",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      66,
+      88,
+      146
+    ],
+    "confidence": 0.8280603289604187,
+    "frame_path": "violations\\20260415_225653_158_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:53.399512",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      38,
+      460,
+      172
+    ],
+    "confidence": 0.8903152346611023,
+    "frame_path": "violations\\20260415_225653_399_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:53.521248",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      66,
+      88,
+      149
+    ],
+    "confidence": 0.8080294132232666,
+    "frame_path": "violations\\20260415_225653_521_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:53.751837",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      39,
+      460,
+      171
+    ],
+    "confidence": 0.8869295716285706,
+    "frame_path": "violations\\20260415_225653_751_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:53.860746",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      68,
+      87,
+      149
+    ],
+    "confidence": 0.8416153192520142,
+    "frame_path": "violations\\20260415_225653_860_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:54.103343",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      39,
+      460,
+      175
+    ],
+    "confidence": 0.8993168473243713,
+    "frame_path": "violations\\20260415_225654_103_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:54.227927",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      68,
+      87,
+      152
+    ],
+    "confidence": 0.8290584087371826,
+    "frame_path": "violations\\20260415_225654_227_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:54.566053",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      69,
+      87,
+      151
+    ],
+    "confidence": 0.8434856534004211,
+    "frame_path": "violations\\20260415_225654_566_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:54.929523",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      70,
+      87,
+      153
+    ],
+    "confidence": 0.8544470071792603,
+    "frame_path": "violations\\20260415_225654_929_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:54.934772",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      41,
+      458,
+      176
+    ],
+    "confidence": 0.8970456123352051,
+    "frame_path": "violations\\20260415_225654_934_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:55.252750",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      70,
+      87,
+      153
+    ],
+    "confidence": 0.8631481528282166,
+    "frame_path": "violations\\20260415_225655_252_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:55.257697",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      42,
+      458,
+      176
+    ],
+    "confidence": 0.8992378115653992,
+    "frame_path": "violations\\20260415_225655_257_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:55.610258",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      70,
+      87,
+      153
+    ],
+    "confidence": 0.8616521954536438,
+    "frame_path": "violations\\20260415_225655_610_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:55.626440",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      42,
+      458,
+      176
+    ],
+    "confidence": 0.9018093347549438,
+    "frame_path": "violations\\20260415_225655_626_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:55.953302",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      70,
+      87,
+      152
+    ],
+    "confidence": 0.8562198281288147,
+    "frame_path": "violations\\20260415_225655_953_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:55.957978",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      42,
+      457,
+      179
+    ],
+    "confidence": 0.8994911909103394,
+    "frame_path": "violations\\20260415_225655_957_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:56.295422",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      70,
+      84,
+      152
+    ],
+    "confidence": 0.8402742147445679,
+    "frame_path": "violations\\20260415_225656_295_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:56.301008",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      41,
+      457,
+      175
+    ],
+    "confidence": 0.8942476511001587,
+    "frame_path": "violations\\20260415_225656_301_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:56.718605",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      68,
+      86,
+      152
+    ],
+    "confidence": 0.8477837443351746,
+    "frame_path": "violations\\20260415_225656_718_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:56.723552",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      41,
+      459,
+      173
+    ],
+    "confidence": 0.8915562033653259,
+    "frame_path": "violations\\20260415_225656_723_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:57.054286",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      68,
+      87,
+      151
+    ],
+    "confidence": 0.8362281322479248,
+    "frame_path": "violations\\20260415_225657_054_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:57.062773",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      40,
+      458,
+      172
+    ],
+    "confidence": 0.8898062109947205,
+    "frame_path": "violations\\20260415_225657_062_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:57.397225",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      68,
+      86,
+      151
+    ],
+    "confidence": 0.8416585326194763,
+    "frame_path": "violations\\20260415_225657_397_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:57.412177",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      41,
+      457,
+      173
+    ],
+    "confidence": 0.8825439214706421,
+    "frame_path": "violations\\20260415_225657_412_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:57.753676",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      68,
+      86,
+      150
+    ],
+    "confidence": 0.8414809107780457,
+    "frame_path": "violations\\20260415_225657_753_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:57.760077",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      41,
+      458,
+      174
+    ],
+    "confidence": 0.8961220383644104,
+    "frame_path": "violations\\20260415_225657_760_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:58.095160",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      68,
+      86,
+      151
+    ],
+    "confidence": 0.848127543926239,
+    "frame_path": "violations\\20260415_225658_095_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:58.205857",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      41,
+      458,
+      174
+    ],
+    "confidence": 0.8963006734848022,
+    "frame_path": "violations\\20260415_225658_205_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:58.425837",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      69,
+      85,
+      152
+    ],
+    "confidence": 0.8480523228645325,
+    "frame_path": "violations\\20260415_225658_425_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:58.556560",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      41,
+      457,
+      176
+    ],
+    "confidence": 0.9015352725982666,
+    "frame_path": "violations\\20260415_225658_556_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:58.784689",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      70,
+      87,
+      153
+    ],
+    "confidence": 0.8607831597328186,
+    "frame_path": "violations\\20260415_225658_784_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:58.895042",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      42,
+      458,
+      179
+    ],
+    "confidence": 0.8782023191452026,
+    "frame_path": "violations\\20260415_225658_895_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:59.130759",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      71,
+      88,
+      154
+    ],
+    "confidence": 0.8744997978210449,
+    "frame_path": "violations\\20260415_225659_130_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:59.254883",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      44,
+      457,
+      181
+    ],
+    "confidence": 0.879555344581604,
+    "frame_path": "violations\\20260415_225659_254_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:59.485644",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      72,
+      88,
+      154
+    ],
+    "confidence": 0.8772130608558655,
+    "frame_path": "violations\\20260415_225659_485_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:59.595363",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      44,
+      458,
+      179
+    ],
+    "confidence": 0.8922690153121948,
+    "frame_path": "violations\\20260415_225659_595_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:56:59.834332",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      73,
+      88,
+      155
+    ],
+    "confidence": 0.8570748567581177,
+    "frame_path": "violations\\20260415_225659_834_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:56:59.965193",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      45,
+      458,
+      180
+    ],
+    "confidence": 0.8941664099693298,
+    "frame_path": "violations\\20260415_225659_965_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:00.187338",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      74,
+      88,
+      158
+    ],
+    "confidence": 0.7950984835624695,
+    "frame_path": "violations\\20260415_225700_187_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:00.299073",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      47,
+      457,
+      182
+    ],
+    "confidence": 0.8920010328292847,
+    "frame_path": "violations\\20260415_225700_299_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:00.526653",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      75,
+      86,
+      158
+    ],
+    "confidence": 0.8086312413215637,
+    "frame_path": "violations\\20260415_225700_526_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:00.792077",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      48,
+      457,
+      184
+    ],
+    "confidence": 0.8856866359710693,
+    "frame_path": "violations\\20260415_225700_792_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:00.916224",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      75,
+      87,
+      159
+    ],
+    "confidence": 0.7979587912559509,
+    "frame_path": "violations\\20260415_225700_916_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:01.297537",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      75,
+      87,
+      158
+    ],
+    "confidence": 0.8153038024902344,
+    "frame_path": "violations\\20260415_225701_297_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:01.420006",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      48,
+      457,
+      182
+    ],
+    "confidence": 0.8912554979324341,
+    "frame_path": "violations\\20260415_225701_420_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:01.679503",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      74,
+      87,
+      158
+    ],
+    "confidence": 0.7989069223403931,
+    "frame_path": "violations\\20260415_225701_679_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:01.810619",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      48,
+      457,
+      184
+    ],
+    "confidence": 0.891714870929718,
+    "frame_path": "violations\\20260415_225701_810_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:02.051331",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      73,
+      86,
+      158
+    ],
+    "confidence": 0.8154411911964417,
+    "frame_path": "violations\\20260415_225702_051_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:02.389291",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      72,
+      85,
+      159
+    ],
+    "confidence": 0.7988117337226868,
+    "frame_path": "violations\\20260415_225702_389_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:02.405609",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      47,
+      457,
+      182
+    ],
+    "confidence": 0.8860700130462646,
+    "frame_path": "violations\\20260415_225702_405_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:13.793948",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      301,
+      34,
+      458,
+      168
+    ],
+    "confidence": 0.9098725318908691,
+    "frame_path": "violations\\20260415_225713_793_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:13.800785",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      63,
+      83,
+      144
+    ],
+    "confidence": 0.7814010977745056,
+    "frame_path": "violations\\20260415_225713_800_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:14.144474",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      301,
+      32,
+      459,
+      169
+    ],
+    "confidence": 0.913875937461853,
+    "frame_path": "violations\\20260415_225714_144_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:14.150421",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      61,
+      83,
+      143
+    ],
+    "confidence": 0.8185057640075684,
+    "frame_path": "violations\\20260415_225714_150_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:14.520726",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      60,
+      82,
+      143
+    ],
+    "confidence": 0.8222802877426147,
+    "frame_path": "violations\\20260415_225714_520_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:14.677234",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      301,
+      30,
+      458,
+      169
+    ],
+    "confidence": 0.9095420241355896,
+    "frame_path": "violations\\20260415_225714_677_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:14.938378",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      60,
+      84,
+      143
+    ],
+    "confidence": 0.8174638748168945,
+    "frame_path": "violations\\20260415_225714_938_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:15.058712",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      29,
+      458,
+      166
+    ],
+    "confidence": 0.9043958783149719,
+    "frame_path": "violations\\20260415_225715_058_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:15.315298",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      60,
+      84,
+      143
+    ],
+    "confidence": 0.8199954628944397,
+    "frame_path": "violations\\20260415_225715_315_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:15.557614",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      32,
+      459,
+      168
+    ],
+    "confidence": 0.9158164858818054,
+    "frame_path": "violations\\20260415_225715_557_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:15.675964",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      61,
+      85,
+      143
+    ],
+    "confidence": 0.8067552447319031,
+    "frame_path": "violations\\20260415_225715_675_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:15.906826",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      33,
+      459,
+      167
+    ],
+    "confidence": 0.9099083542823792,
+    "frame_path": "violations\\20260415_225715_906_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:16.017889",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      61,
+      84,
+      143
+    ],
+    "confidence": 0.7847123742103577,
+    "frame_path": "violations\\20260415_225716_017_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:16.383336",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      62,
+      84,
+      145
+    ],
+    "confidence": 0.7705524563789368,
+    "frame_path": "violations\\20260415_225716_383_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:16.723458",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      63,
+      87,
+      146
+    ],
+    "confidence": 0.8020216226577759,
+    "frame_path": "violations\\20260415_225716_723_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:16.729635",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      35,
+      459,
+      173
+    ],
+    "confidence": 0.9125027656555176,
+    "frame_path": "violations\\20260415_225716_729_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:17.066798",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      87,
+      146
+    ],
+    "confidence": 0.801751434803009,
+    "frame_path": "violations\\20260415_225717_066_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:17.083050",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      459,
+      174
+    ],
+    "confidence": 0.9142205715179443,
+    "frame_path": "violations\\20260415_225717_083_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:17.428520",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      63,
+      86,
+      146
+    ],
+    "confidence": 0.7928857207298279,
+    "frame_path": "violations\\20260415_225717_428_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:17.434477",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      459,
+      173
+    ],
+    "confidence": 0.9077919721603394,
+    "frame_path": "violations\\20260415_225717_434_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:17.831962",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      88,
+      147
+    ],
+    "confidence": 0.8003776669502258,
+    "frame_path": "violations\\20260415_225717_831_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:17.944723",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      37,
+      459,
+      174
+    ],
+    "confidence": 0.8906109929084778,
+    "frame_path": "violations\\20260415_225717_944_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:18.262333",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      88,
+      148
+    ],
+    "confidence": 0.788400411605835,
+    "frame_path": "violations\\20260415_225718_262_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:18.378962",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      37,
+      459,
+      175
+    ],
+    "confidence": 0.9040829539299011,
+    "frame_path": "violations\\20260415_225718_378_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:18.614900",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      65,
+      87,
+      146
+    ],
+    "confidence": 0.8154882788658142,
+    "frame_path": "violations\\20260415_225718_614_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:18.744925",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      37,
+      459,
+      174
+    ],
+    "confidence": 0.9099056720733643,
+    "frame_path": "violations\\20260415_225718_744_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:18.969684",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      64,
+      88,
+      147
+    ],
+    "confidence": 0.8067675828933716,
+    "frame_path": "violations\\20260415_225718_969_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:19.082977",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      459,
+      174
+    ],
+    "confidence": 0.9121807217597961,
+    "frame_path": "violations\\20260415_225719_082_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:19.312027",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      63,
+      88,
+      146
+    ],
+    "confidence": 0.8056095838546753,
+    "frame_path": "violations\\20260415_225719_312_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:19.436556",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      35,
+      459,
+      173
+    ],
+    "confidence": 0.9100324511528015,
+    "frame_path": "violations\\20260415_225719_436_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:19.673333",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      62,
+      86,
+      145
+    ],
+    "confidence": 0.7971789240837097,
+    "frame_path": "violations\\20260415_225719_673_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:19.794833",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      35,
+      459,
+      169
+    ],
+    "confidence": 0.913561224937439,
+    "frame_path": "violations\\20260415_225719_794_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:20.029623",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      61,
+      86,
+      143
+    ],
+    "confidence": 0.8186095356941223,
+    "frame_path": "violations\\20260415_225720_029_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:20.155000",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      33,
+      460,
+      169
+    ],
+    "confidence": 0.9162150025367737,
+    "frame_path": "violations\\20260415_225720_155_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:20.392841",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      61,
+      86,
+      143
+    ],
+    "confidence": 0.8008280396461487,
+    "frame_path": "violations\\20260415_225720_392_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:20.516543",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      33,
+      459,
+      171
+    ],
+    "confidence": 0.9089505076408386,
+    "frame_path": "violations\\20260415_225720_516_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:20.751940",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      61,
+      86,
+      145
+    ],
+    "confidence": 0.7822761535644531,
+    "frame_path": "violations\\20260415_225720_751_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:20.986053",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      35,
+      460,
+      172
+    ],
+    "confidence": 0.9081166982650757,
+    "frame_path": "violations\\20260415_225720_986_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:21.111509",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      63,
+      87,
+      145
+    ],
+    "confidence": 0.7954283952713013,
+    "frame_path": "violations\\20260415_225721_111_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:21.338868",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      35,
+      460,
+      174
+    ],
+    "confidence": 0.9029092192649841,
+    "frame_path": "violations\\20260415_225721_338_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:21.452060",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      87,
+      146
+    ],
+    "confidence": 0.8085281252861023,
+    "frame_path": "violations\\20260415_225721_452_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:21.692178",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      460,
+      174
+    ],
+    "confidence": 0.8889161944389343,
+    "frame_path": "violations\\20260415_225721_692_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:21.814208",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      65,
+      88,
+      147
+    ],
+    "confidence": 0.8099328279495239,
+    "frame_path": "violations\\20260415_225721_814_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:22.045473",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      460,
+      173
+    ],
+    "confidence": 0.9062901735305786,
+    "frame_path": "violations\\20260415_225722_045_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:22.167478",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      88,
+      146
+    ],
+    "confidence": 0.818169355392456,
+    "frame_path": "violations\\20260415_225722_167_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:22.405525",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      37,
+      460,
+      174
+    ],
+    "confidence": 0.9074010848999023,
+    "frame_path": "violations\\20260415_225722_405_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:22.525730",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      88,
+      147
+    ],
+    "confidence": 0.8133411407470703,
+    "frame_path": "violations\\20260415_225722_525_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:22.874365",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      65,
+      88,
+      146
+    ],
+    "confidence": 0.8186172246932983,
+    "frame_path": "violations\\20260415_225722_874_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:23.276580",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      65,
+      88,
+      148
+    ],
+    "confidence": 0.8109013438224792,
+    "frame_path": "violations\\20260415_225723_276_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:23.511083",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      37,
+      460,
+      173
+    ],
+    "confidence": 0.9085531830787659,
+    "frame_path": "violations\\20260415_225723_511_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:23.637054",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      64,
+      88,
+      147
+    ],
+    "confidence": 0.7992780208587646,
+    "frame_path": "violations\\20260415_225723_637_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:23.868946",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      36,
+      460,
+      175
+    ],
+    "confidence": 0.9130791425704956,
+    "frame_path": "violations\\20260415_225723_868_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:23.994159",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      64,
+      88,
+      146
+    ],
+    "confidence": 0.8097047209739685,
+    "frame_path": "violations\\20260415_225723_994_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:24.240087",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      36,
+      460,
+      175
+    ],
+    "confidence": 0.9116650819778442,
+    "frame_path": "violations\\20260415_225724_240_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:24.352415",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      64,
+      87,
+      147
+    ],
+    "confidence": 0.7995531558990479,
+    "frame_path": "violations\\20260415_225724_352_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:24.707281",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      63,
+      88,
+      145
+    ],
+    "confidence": 0.7920576930046082,
+    "frame_path": "violations\\20260415_225724_707_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:24.931676",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      35,
+      460,
+      174
+    ],
+    "confidence": 0.9059078693389893,
+    "frame_path": "violations\\20260415_225724_931_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:25.050547",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      63,
+      88,
+      145
+    ],
+    "confidence": 0.8222929239273071,
+    "frame_path": "violations\\20260415_225725_050_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:25.283322",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      36,
+      460,
+      175
+    ],
+    "confidence": 0.9155920147895813,
+    "frame_path": "violations\\20260415_225725_283_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:25.396202",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      64,
+      88,
+      146
+    ],
+    "confidence": 0.8259484171867371,
+    "frame_path": "violations\\20260415_225725_396_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:25.634973",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      36,
+      460,
+      175
+    ],
+    "confidence": 0.9080227017402649,
+    "frame_path": "violations\\20260415_225725_634_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:25.758735",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      64,
+      89,
+      146
+    ],
+    "confidence": 0.8254296779632568,
+    "frame_path": "violations\\20260415_225725_758_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:25.983485",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      37,
+      460,
+      176
+    ],
+    "confidence": 0.907053530216217,
+    "frame_path": "violations\\20260415_225725_983_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:26.095397",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      64,
+      89,
+      146
+    ],
+    "confidence": 0.8135932087898254,
+    "frame_path": "violations\\20260415_225726_095_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:26.328472",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      37,
+      460,
+      174
+    ],
+    "confidence": 0.9044570922851562,
+    "frame_path": "violations\\20260415_225726_328_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:26.439319",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      66,
+      88,
+      146
+    ],
+    "confidence": 0.8280603289604187,
+    "frame_path": "violations\\20260415_225726_439_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:26.667788",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      38,
+      460,
+      172
+    ],
+    "confidence": 0.8903152346611023,
+    "frame_path": "violations\\20260415_225726_667_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:26.779773",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      66,
+      88,
+      149
+    ],
+    "confidence": 0.8080294132232666,
+    "frame_path": "violations\\20260415_225726_779_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:27.018606",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      39,
+      460,
+      171
+    ],
+    "confidence": 0.8869295716285706,
+    "frame_path": "violations\\20260415_225727_018_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:27.141658",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      68,
+      87,
+      149
+    ],
+    "confidence": 0.8416153192520142,
+    "frame_path": "violations\\20260415_225727_141_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:27.376211",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      39,
+      460,
+      175
+    ],
+    "confidence": 0.8993168473243713,
+    "frame_path": "violations\\20260415_225727_376_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:27.486587",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      68,
+      87,
+      152
+    ],
+    "confidence": 0.8290584087371826,
+    "frame_path": "violations\\20260415_225727_486_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:27.833626",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      69,
+      87,
+      151
+    ],
+    "confidence": 0.8434856534004211,
+    "frame_path": "violations\\20260415_225727_833_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:28.176603",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      70,
+      87,
+      153
+    ],
+    "confidence": 0.8544470071792603,
+    "frame_path": "violations\\20260415_225728_176_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:28.184167",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      41,
+      458,
+      176
+    ],
+    "confidence": 0.8970456123352051,
+    "frame_path": "violations\\20260415_225728_184_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:28.587590",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      70,
+      87,
+      153
+    ],
+    "confidence": 0.8631481528282166,
+    "frame_path": "violations\\20260415_225728_587_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:28.595124",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      42,
+      458,
+      176
+    ],
+    "confidence": 0.8992378115653992,
+    "frame_path": "violations\\20260415_225728_595_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:28.942757",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      70,
+      87,
+      153
+    ],
+    "confidence": 0.8616521954536438,
+    "frame_path": "violations\\20260415_225728_942_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:28.950431",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      42,
+      458,
+      176
+    ],
+    "confidence": 0.9018093347549438,
+    "frame_path": "violations\\20260415_225728_950_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:29.286210",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      70,
+      87,
+      152
+    ],
+    "confidence": 0.8562198281288147,
+    "frame_path": "violations\\20260415_225729_286_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:29.294733",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      42,
+      457,
+      179
+    ],
+    "confidence": 0.8994911909103394,
+    "frame_path": "violations\\20260415_225729_294_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:29.643761",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      70,
+      84,
+      152
+    ],
+    "confidence": 0.8402742147445679,
+    "frame_path": "violations\\20260415_225729_643_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:29.651411",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      41,
+      457,
+      175
+    ],
+    "confidence": 0.8942476511001587,
+    "frame_path": "violations\\20260415_225729_651_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:29.994965",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      68,
+      86,
+      152
+    ],
+    "confidence": 0.8477837443351746,
+    "frame_path": "violations\\20260415_225729_994_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:30.002889",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      41,
+      459,
+      173
+    ],
+    "confidence": 0.8915562033653259,
+    "frame_path": "violations\\20260415_225730_002_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:30.350545",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      68,
+      87,
+      151
+    ],
+    "confidence": 0.8362281322479248,
+    "frame_path": "violations\\20260415_225730_350_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:30.357596",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      40,
+      458,
+      172
+    ],
+    "confidence": 0.8898062109947205,
+    "frame_path": "violations\\20260415_225730_357_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:30.693729",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      68,
+      86,
+      151
+    ],
+    "confidence": 0.8416585326194763,
+    "frame_path": "violations\\20260415_225730_693_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:30.711007",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      41,
+      457,
+      173
+    ],
+    "confidence": 0.8825439214706421,
+    "frame_path": "violations\\20260415_225730_711_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:31.050558",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      68,
+      86,
+      150
+    ],
+    "confidence": 0.8414809107780457,
+    "frame_path": "violations\\20260415_225731_050_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:31.058544",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      41,
+      458,
+      174
+    ],
+    "confidence": 0.8961220383644104,
+    "frame_path": "violations\\20260415_225731_058_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:31.401781",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      68,
+      86,
+      151
+    ],
+    "confidence": 0.848127543926239,
+    "frame_path": "violations\\20260415_225731_401_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:31.519137",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      41,
+      458,
+      174
+    ],
+    "confidence": 0.8963006734848022,
+    "frame_path": "violations\\20260415_225731_519_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:31.756585",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      69,
+      85,
+      152
+    ],
+    "confidence": 0.8480523228645325,
+    "frame_path": "violations\\20260415_225731_756_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:31.870523",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      41,
+      457,
+      176
+    ],
+    "confidence": 0.9015352725982666,
+    "frame_path": "violations\\20260415_225731_870_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:32.104304",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      70,
+      87,
+      153
+    ],
+    "confidence": 0.8607831597328186,
+    "frame_path": "violations\\20260415_225732_104_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:32.224185",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      42,
+      458,
+      179
+    ],
+    "confidence": 0.8782023191452026,
+    "frame_path": "violations\\20260415_225732_224_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:32.473589",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      71,
+      88,
+      154
+    ],
+    "confidence": 0.8744997978210449,
+    "frame_path": "violations\\20260415_225732_473_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:32.585660",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      44,
+      457,
+      181
+    ],
+    "confidence": 0.879555344581604,
+    "frame_path": "violations\\20260415_225732_585_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:32.825778",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      72,
+      88,
+      154
+    ],
+    "confidence": 0.8772130608558655,
+    "frame_path": "violations\\20260415_225732_825_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:32.944271",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      44,
+      458,
+      179
+    ],
+    "confidence": 0.8922690153121948,
+    "frame_path": "violations\\20260415_225732_944_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:33.178327",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      73,
+      88,
+      155
+    ],
+    "confidence": 0.8570748567581177,
+    "frame_path": "violations\\20260415_225733_178_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:33.303155",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      45,
+      458,
+      180
+    ],
+    "confidence": 0.8941664099693298,
+    "frame_path": "violations\\20260415_225733_303_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:33.601750",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      74,
+      88,
+      158
+    ],
+    "confidence": 0.7950984835624695,
+    "frame_path": "violations\\20260415_225733_601_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:33.723505",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      47,
+      457,
+      182
+    ],
+    "confidence": 0.8920010328292847,
+    "frame_path": "violations\\20260415_225733_723_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:33.971942",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      75,
+      86,
+      158
+    ],
+    "confidence": 0.8086312413215637,
+    "frame_path": "violations\\20260415_225733_971_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:34.195269",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      48,
+      457,
+      184
+    ],
+    "confidence": 0.8856866359710693,
+    "frame_path": "violations\\20260415_225734_195_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:34.316227",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      75,
+      87,
+      159
+    ],
+    "confidence": 0.7979587912559509,
+    "frame_path": "violations\\20260415_225734_316_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:34.726198",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      75,
+      87,
+      158
+    ],
+    "confidence": 0.8153038024902344,
+    "frame_path": "violations\\20260415_225734_726_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:34.845296",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      48,
+      457,
+      182
+    ],
+    "confidence": 0.8912554979324341,
+    "frame_path": "violations\\20260415_225734_845_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:35.073553",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      74,
+      87,
+      158
+    ],
+    "confidence": 0.7989069223403931,
+    "frame_path": "violations\\20260415_225735_073_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:35.201554",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      48,
+      457,
+      184
+    ],
+    "confidence": 0.891714870929718,
+    "frame_path": "violations\\20260415_225735_201_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:35.429297",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      73,
+      86,
+      158
+    ],
+    "confidence": 0.8154411911964417,
+    "frame_path": "violations\\20260415_225735_429_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:35.769711",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      72,
+      85,
+      159
+    ],
+    "confidence": 0.7988117337226868,
+    "frame_path": "violations\\20260415_225735_769_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:35.777983",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      47,
+      457,
+      182
+    ],
+    "confidence": 0.8860700130462646,
+    "frame_path": "violations\\20260415_225735_777_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:36.119716",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      71,
+      86,
+      157
+    ],
+    "confidence": 0.8371866941452026,
+    "frame_path": "violations\\20260415_225736_119_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:36.128229",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      46,
+      458,
+      184
+    ],
+    "confidence": 0.8940444588661194,
+    "frame_path": "violations\\20260415_225736_128_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:36.475618",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      72,
+      86,
+      158
+    ],
+    "confidence": 0.8302385807037354,
+    "frame_path": "violations\\20260415_225736_475_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:36.484514",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      45,
+      457,
+      183
+    ],
+    "confidence": 0.8924364447593689,
+    "frame_path": "violations\\20260415_225736_484_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:36.830465",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      74,
+      86,
+      160
+    ],
+    "confidence": 0.8330376148223877,
+    "frame_path": "violations\\20260415_225736_830_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:36.837762",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      47,
+      457,
+      182
+    ],
+    "confidence": 0.8912966847419739,
+    "frame_path": "violations\\20260415_225736_837_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:37.185217",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      74,
+      86,
+      161
+    ],
+    "confidence": 0.8242709636688232,
+    "frame_path": "violations\\20260415_225737_185_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:37.517464",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      75,
+      87,
+      159
+    ],
+    "confidence": 0.7848865389823914,
+    "frame_path": "violations\\20260415_225737_517_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:37.753838",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      49,
+      458,
+      185
+    ],
+    "confidence": 0.8870035409927368,
+    "frame_path": "violations\\20260415_225737_753_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:37.876781",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      75,
+      88,
+      159
+    ],
+    "confidence": 0.7421655654907227,
+    "frame_path": "violations\\20260415_225737_876_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:38.103945",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      49,
+      458,
+      185
+    ],
+    "confidence": 0.8838860392570496,
+    "frame_path": "violations\\20260415_225738_103_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:38.219434",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      76,
+      87,
+      160
+    ],
+    "confidence": 0.7461811900138855,
+    "frame_path": "violations\\20260415_225738_219_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:38.704742",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      77,
+      87,
+      161
+    ],
+    "confidence": 0.7557685971260071,
+    "frame_path": "violations\\20260415_225738_704_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:38.713983",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      51,
+      458,
+      188
+    ],
+    "confidence": 0.8809877038002014,
+    "frame_path": "violations\\20260415_225738_713_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:39.074491",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      79,
+      87,
+      165
+    ],
+    "confidence": 0.7933495044708252,
+    "frame_path": "violations\\20260415_225739_074_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:39.083737",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      53,
+      458,
+      188
+    ],
+    "confidence": 0.9022771716117859,
+    "frame_path": "violations\\20260415_225739_083_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:39.435989",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      81,
+      87,
+      168
+    ],
+    "confidence": 0.8351384401321411,
+    "frame_path": "violations\\20260415_225739_435_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:39.558344",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      53,
+      458,
+      188
+    ],
+    "confidence": 0.892439067363739,
+    "frame_path": "violations\\20260415_225739_558_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:39.791829",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      7,
+      82,
+      87,
+      169
+    ],
+    "confidence": 0.8272573351860046,
+    "frame_path": "violations\\20260415_225739_791_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:39.922802",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      53,
+      458,
+      187
+    ],
+    "confidence": 0.8849344849586487,
+    "frame_path": "violations\\20260415_225739_922_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:40.154706",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      82,
+      86,
+      170
+    ],
+    "confidence": 0.8186468482017517,
+    "frame_path": "violations\\20260415_225740_154_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:40.275930",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      54,
+      457,
+      189
+    ],
+    "confidence": 0.892297089099884,
+    "frame_path": "violations\\20260415_225740_275_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:40.508179",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      82,
+      87,
+      170
+    ],
+    "confidence": 0.8227951526641846,
+    "frame_path": "violations\\20260415_225740_508_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:40.620670",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      54,
+      458,
+      189
+    ],
+    "confidence": 0.9025424122810364,
+    "frame_path": "violations\\20260415_225740_620_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:40.856496",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      82,
+      87,
+      169
+    ],
+    "confidence": 0.8699756264686584,
+    "frame_path": "violations\\20260415_225740_856_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:40.979119",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      54,
+      459,
+      189
+    ],
+    "confidence": 0.9022380709648132,
+    "frame_path": "violations\\20260415_225740_979_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:41.213006",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      82,
+      88,
+      169
+    ],
+    "confidence": 0.873193085193634,
+    "frame_path": "violations\\20260415_225741_213_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:41.325277",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      54,
+      459,
+      190
+    ],
+    "confidence": 0.8957158327102661,
+    "frame_path": "violations\\20260415_225741_325_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:41.564352",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      81,
+      88,
+      169
+    ],
+    "confidence": 0.8395472168922424,
+    "frame_path": "violations\\20260415_225741_564_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:41.689949",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      54,
+      458,
+      190
+    ],
+    "confidence": 0.8922896981239319,
+    "frame_path": "violations\\20260415_225741_689_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:41.932061",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      80,
+      88,
+      166
+    ],
+    "confidence": 0.8215091824531555,
+    "frame_path": "violations\\20260415_225741_932_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:42.045166",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      55,
+      458,
+      193
+    ],
+    "confidence": 0.9071934223175049,
+    "frame_path": "violations\\20260415_225742_045_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:42.286767",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      80,
+      87,
+      164
+    ],
+    "confidence": 0.8049522042274475,
+    "frame_path": "violations\\20260415_225742_286_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:42.406859",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      55,
+      459,
+      191
+    ],
+    "confidence": 0.9101623892784119,
+    "frame_path": "violations\\20260415_225742_406_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:42.645455",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      15,
+      81,
+      88,
+      164
+    ],
+    "confidence": 0.8021395206451416,
+    "frame_path": "violations\\20260415_225742_645_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:42.758210",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      56,
+      458,
+      192
+    ],
+    "confidence": 0.9116513133049011,
+    "frame_path": "violations\\20260415_225742_758_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:42.990810",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      15,
+      82,
+      87,
+      163
+    ],
+    "confidence": 0.8075748682022095,
+    "frame_path": "violations\\20260415_225742_990_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:43.114849",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      57,
+      457,
+      190
+    ],
+    "confidence": 0.8903923630714417,
+    "frame_path": "violations\\20260415_225743_114_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:43.423271",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      86,
+      87,
+      165
+    ],
+    "confidence": 0.8332409858703613,
+    "frame_path": "violations\\20260415_225743_423_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:43.538439",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      56,
+      458,
+      189
+    ],
+    "confidence": 0.883262038230896,
+    "frame_path": "violations\\20260415_225743_538_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:43.770371",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      88,
+      86,
+      164
+    ],
+    "confidence": 0.8219667673110962,
+    "frame_path": "violations\\20260415_225743_770_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:43.894656",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      55,
+      458,
+      187
+    ],
+    "confidence": 0.8870210647583008,
+    "frame_path": "violations\\20260415_225743_894_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:44.129053",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      86,
+      86,
+      163
+    ],
+    "confidence": 0.8392546772956848,
+    "frame_path": "violations\\20260415_225744_129_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:44.254693",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      53,
+      457,
+      189
+    ],
+    "confidence": 0.8877474665641785,
+    "frame_path": "violations\\20260415_225744_254_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:44.483563",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      85,
+      88,
+      160
+    ],
+    "confidence": 0.8322153091430664,
+    "frame_path": "violations\\20260415_225744_483_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:44.596276",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      52,
+      459,
+      187
+    ],
+    "confidence": 0.8615624308586121,
+    "frame_path": "violations\\20260415_225744_596_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:44.844704",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      82,
+      88,
+      160
+    ],
+    "confidence": 0.823463499546051,
+    "frame_path": "violations\\20260415_225744_844_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:44.967880",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      51,
+      458,
+      189
+    ],
+    "confidence": 0.8957321643829346,
+    "frame_path": "violations\\20260415_225744_967_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:45.217925",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      81,
+      88,
+      160
+    ],
+    "confidence": 0.8134948015213013,
+    "frame_path": "violations\\20260415_225745_217_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:45.331727",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      51,
+      458,
+      189
+    ],
+    "confidence": 0.8789424300193787,
+    "frame_path": "violations\\20260415_225745_331_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:45.565342",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      80,
+      87,
+      161
+    ],
+    "confidence": 0.8330580592155457,
+    "frame_path": "violations\\20260415_225745_565_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:45.910550",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      81,
+      87,
+      161
+    ],
+    "confidence": 0.848851203918457,
+    "frame_path": "violations\\20260415_225745_910_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:46.149368",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      51,
+      457,
+      184
+    ],
+    "confidence": 0.857124924659729,
+    "frame_path": "violations\\20260415_225746_149_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:46.275630",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      85,
+      86,
+      161
+    ],
+    "confidence": 0.8330367207527161,
+    "frame_path": "violations\\20260415_225746_275_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:46.521241",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      52,
+      457,
+      186
+    ],
+    "confidence": 0.8548314571380615,
+    "frame_path": "violations\\20260415_225746_521_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:46.647166",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      7,
+      86,
+      88,
+      161
+    ],
+    "confidence": 0.8259665369987488,
+    "frame_path": "violations\\20260415_225746_647_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:46.884145",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      52,
+      458,
+      185
+    ],
+    "confidence": 0.8631452322006226,
+    "frame_path": "violations\\20260415_225746_884_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:47.009615",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      8,
+      86,
+      88,
+      162
+    ],
+    "confidence": 0.8289384245872498,
+    "frame_path": "violations\\20260415_225747_009_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:47.349559",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      87,
+      88,
+      161
+    ],
+    "confidence": 0.8400808572769165,
+    "frame_path": "violations\\20260415_225747_349_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:47.462747",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      52,
+      458,
+      190
+    ],
+    "confidence": 0.8950749039649963,
+    "frame_path": "violations\\20260415_225747_462_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:47.693659",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      9,
+      88,
+      88,
+      161
+    ],
+    "confidence": 0.8461650609970093,
+    "frame_path": "violations\\20260415_225747_693_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:47.817132",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      53,
+      458,
+      190
+    ],
+    "confidence": 0.9010353684425354,
+    "frame_path": "violations\\20260415_225747_817_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:48.100148",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      85,
+      88,
+      162
+    ],
+    "confidence": 0.8383569717407227,
+    "frame_path": "violations\\20260415_225748_100_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:48.225167",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      54,
+      457,
+      189
+    ],
+    "confidence": 0.8932211399078369,
+    "frame_path": "violations\\20260415_225748_225_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:48.458618",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      85,
+      86,
+      163
+    ],
+    "confidence": 0.853804349899292,
+    "frame_path": "violations\\20260415_225748_458_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:48.580214",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      55,
+      457,
+      188
+    ],
+    "confidence": 0.894763171672821,
+    "frame_path": "violations\\20260415_225748_580_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:48.835620",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      85,
+      86,
+      163
+    ],
+    "confidence": 0.8462590575218201,
+    "frame_path": "violations\\20260415_225748_835_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:48.954602",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      56,
+      457,
+      188
+    ],
+    "confidence": 0.8994543552398682,
+    "frame_path": "violations\\20260415_225748_954_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:49.190242",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      86,
+      86,
+      165
+    ],
+    "confidence": 0.8355567455291748,
+    "frame_path": "violations\\20260415_225749_190_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:49.314119",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      57,
+      456,
+      190
+    ],
+    "confidence": 0.9057195782661438,
+    "frame_path": "violations\\20260415_225749_314_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:49.567673",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      10,
+      87,
+      87,
+      167
+    ],
+    "confidence": 0.8438591361045837,
+    "frame_path": "violations\\20260415_225749_567_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:49.689320",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      57,
+      456,
+      191
+    ],
+    "confidence": 0.8945274353027344,
+    "frame_path": "violations\\20260415_225749_689_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:49.918858",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      88,
+      87,
+      169
+    ],
+    "confidence": 0.8649572730064392,
+    "frame_path": "violations\\20260415_225749_918_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:50.045922",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      58,
+      456,
+      194
+    ],
+    "confidence": 0.8966658711433411,
+    "frame_path": "violations\\20260415_225750_045_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:50.294188",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      88,
+      87,
+      169
+    ],
+    "confidence": 0.8650146722793579,
+    "frame_path": "violations\\20260415_225750_294_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:50.424273",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      58,
+      457,
+      194
+    ],
+    "confidence": 0.8994532823562622,
+    "frame_path": "violations\\20260415_225750_424_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:50.668677",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      87,
+      87,
+      168
+    ],
+    "confidence": 0.8771607279777527,
+    "frame_path": "violations\\20260415_225750_668_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:50.797033",
+    "camera_id": "entrance",
+    "violation_type": "vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      57,
+      457,
+      193
+    ],
+    "confidence": 0.8997979164123535,
+    "frame_path": "violations\\20260415_225750_797_entrance_missing_vest.jpg",
+    "present_classes": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:51.030629",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      86,
+      86,
+      167
+    ],
+    "confidence": 0.8539218306541443,
+    "frame_path": "violations\\20260415_225751_030_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:51.150480",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      56,
+      457,
+      188
+    ],
+    "confidence": 0.8927932977676392,
+    "frame_path": "violations\\20260415_225751_150_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:51.382932",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      85,
+      86,
+      165
+    ],
+    "confidence": 0.8410054445266724,
+    "frame_path": "violations\\20260415_225751_382_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:51.498942",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      55,
+      458,
+      190
+    ],
+    "confidence": 0.8964753150939941,
+    "frame_path": "violations\\20260415_225751_498_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:51.739573",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      85,
+      87,
+      164
+    ],
+    "confidence": 0.8488184809684753,
+    "frame_path": "violations\\20260415_225751_739_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:51.855072",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      56,
+      457,
+      190
+    ],
+    "confidence": 0.9069938063621521,
+    "frame_path": "violations\\20260415_225751_855_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:52.087874",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      86,
+      87,
+      166
+    ],
+    "confidence": 0.8596476912498474,
+    "frame_path": "violations\\20260415_225752_087_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:52.215558",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      57,
+      456,
+      189
+    ],
+    "confidence": 0.9042084813117981,
+    "frame_path": "violations\\20260415_225752_215_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:52.446139",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      11,
+      86,
+      87,
+      166
+    ],
+    "confidence": 0.8545443415641785,
+    "frame_path": "violations\\20260415_225752_446_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:52.616672",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      57,
+      456,
+      191
+    ],
+    "confidence": 0.9096621870994568,
+    "frame_path": "violations\\20260415_225752_616_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:52.860005",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      88,
+      87,
+      167
+    ],
+    "confidence": 0.8549137711524963,
+    "frame_path": "violations\\20260415_225752_860_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:52.977139",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      57,
+      457,
+      191
+    ],
+    "confidence": 0.8924573063850403,
+    "frame_path": "violations\\20260415_225752_977_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:53.230774",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      89,
+      87,
+      168
+    ],
+    "confidence": 0.8435065746307373,
+    "frame_path": "violations\\20260415_225753_230_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:53.356638",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      58,
+      456,
+      193
+    ],
+    "confidence": 0.9040346741676331,
+    "frame_path": "violations\\20260415_225753_356_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:53.590599",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      88,
+      87,
+      168
+    ],
+    "confidence": 0.8683800101280212,
+    "frame_path": "violations\\20260415_225753_590_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:53.712264",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      57,
+      455,
+      194
+    ],
+    "confidence": 0.8929980993270874,
+    "frame_path": "violations\\20260415_225753_712_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:53.964085",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      89,
+      86,
+      168
+    ],
+    "confidence": 0.8602105975151062,
+    "frame_path": "violations\\20260415_225753_964_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:54.084440",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      303,
+      58,
+      455,
+      194
+    ],
+    "confidence": 0.8881275653839111,
+    "frame_path": "violations\\20260415_225754_084_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:54.317328",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      304,
+      57,
+      453,
+      193
+    ],
+    "confidence": 0.8542518615722656,
+    "frame_path": "violations\\20260415_225754_317_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:54.434089",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      13,
+      89,
+      86,
+      168
+    ],
+    "confidence": 0.860657811164856,
+    "frame_path": "violations\\20260415_225754_434_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:54.682928",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      89,
+      86,
+      169
+    ],
+    "confidence": 0.8426519632339478,
+    "frame_path": "violations\\20260415_225754_682_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:54.803100",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      304,
+      57,
+      449,
+      194
+    ],
+    "confidence": 0.8972458243370056,
+    "frame_path": "violations\\20260415_225754_803_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:55.038633",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      89,
+      86,
+      168
+    ],
+    "confidence": 0.8462786078453064,
+    "frame_path": "violations\\20260415_225755_038_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:55.161708",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      305,
+      57,
+      446,
+      190
+    ],
+    "confidence": 0.8878671526908875,
+    "frame_path": "violations\\20260415_225755_161_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:55.469120",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      306,
+      56,
+      445,
+      187
+    ],
+    "confidence": 0.8415607213973999,
+    "frame_path": "violations\\20260415_225755_469_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:55.594922",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      305,
+      55,
+      444,
+      187
+    ],
+    "confidence": 0.8722870945930481,
+    "frame_path": "violations\\20260415_225755_594_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:55.861429",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      305,
+      54,
+      441,
+      182
+    ],
+    "confidence": 0.8420343995094299,
+    "frame_path": "violations\\20260415_225755_861_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:55.981633",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      12,
+      85,
+      86,
+      163
+    ],
+    "confidence": 0.858748733997345,
+    "frame_path": "violations\\20260415_225755_981_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:56.238743",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      303,
+      52,
+      439,
+      199
+    ],
+    "confidence": 0.8073099851608276,
+    "frame_path": "violations\\20260415_225756_238_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:56.356841",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      12,
+      85,
+      86,
+      163
+    ],
+    "confidence": 0.859813928604126,
+    "frame_path": "violations\\20260415_225756_356_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:56.587543",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      85,
+      87,
+      162
+    ],
+    "confidence": 0.8555753231048584,
+    "frame_path": "violations\\20260415_225756_587_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:56.717633",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      302,
+      50,
+      435,
+      196
+    ],
+    "confidence": 0.8727797269821167,
+    "frame_path": "violations\\20260415_225756_717_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:56.964331",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      86,
+      87,
+      162
+    ],
+    "confidence": 0.856712281703949,
+    "frame_path": "violations\\20260415_225756_964_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:57.088915",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      297,
+      51,
+      432,
+      194
+    ],
+    "confidence": 0.856697678565979,
+    "frame_path": "violations\\20260415_225757_088_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:57.321813",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      86,
+      88,
+      164
+    ],
+    "confidence": 0.8144884705543518,
+    "frame_path": "violations\\20260415_225757_321_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:57.441625",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      285,
+      51,
+      430,
+      193
+    ],
+    "confidence": 0.904513955116272,
+    "frame_path": "violations\\20260415_225757_441_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:57.696967",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      86,
+      88,
+      166
+    ],
+    "confidence": 0.8156079053878784,
+    "frame_path": "violations\\20260415_225757_696_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:57.819405",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      281,
+      51,
+      420,
+      191
+    ],
+    "confidence": 0.8623600006103516,
+    "frame_path": "violations\\20260415_225757_819_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:58.051442",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      86,
+      88,
+      167
+    ],
+    "confidence": 0.821958065032959,
+    "frame_path": "violations\\20260415_225758_051_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:58.174846",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      280,
+      52,
+      413,
+      192
+    ],
+    "confidence": 0.8785759210586548,
+    "frame_path": "violations\\20260415_225758_174_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:58.420121",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      88,
+      87,
+      167
+    ],
+    "confidence": 0.8563287258148193,
+    "frame_path": "violations\\20260415_225758_420_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:58.535879",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      14,
+      89,
+      87,
+      168
+    ],
+    "confidence": 0.8664376139640808,
+    "frame_path": "violations\\20260415_225758_535_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:58.879594",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      277,
+      55,
+      393,
+      199
+    ],
+    "confidence": 0.8679789900779724,
+    "frame_path": "violations\\20260415_225758_879_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:59.118081",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      265,
+      56,
+      387,
+      198
+    ],
+    "confidence": 0.8259952068328857,
+    "frame_path": "violations\\20260415_225759_118_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:59.242671",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      13,
+      90,
+      87,
+      169
+    ],
+    "confidence": 0.8449667096138,
+    "frame_path": "violations\\20260415_225759_242_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:59.474903",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      91,
+      87,
+      170
+    ],
+    "confidence": 0.8463678359985352,
+    "frame_path": "violations\\20260415_225759_474_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:57:59.707032",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      263,
+      50,
+      371,
+      202
+    ],
+    "confidence": 0.8849667906761169,
+    "frame_path": "violations\\20260415_225759_707_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:57:59.833416",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      90,
+      87,
+      170
+    ],
+    "confidence": 0.839684784412384,
+    "frame_path": "violations\\20260415_225759_833_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:00.084310",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      262,
+      44,
+      364,
+      204
+    ],
+    "confidence": 0.8692440986633301,
+    "frame_path": "violations\\20260415_225800_084_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:00.209208",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      88,
+      87,
+      169
+    ],
+    "confidence": 0.8347839713096619,
+    "frame_path": "violations\\20260415_225800_209_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:00.439557",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      265,
+      37,
+      343,
+      193
+    ],
+    "confidence": 0.863834798336029,
+    "frame_path": "violations\\20260415_225800_439_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:00.567235",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      86,
+      88,
+      164
+    ],
+    "confidence": 0.8306851387023926,
+    "frame_path": "violations\\20260415_225800_567_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:00.923778",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      84,
+      89,
+      163
+    ],
+    "confidence": 0.8327606320381165,
+    "frame_path": "violations\\20260415_225800_923_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:01.266314",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      85,
+      88,
+      163
+    ],
+    "confidence": 0.8337496519088745,
+    "frame_path": "violations\\20260415_225801_266_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:01.396389",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      243,
+      37,
+      337,
+      198
+    ],
+    "confidence": 0.8888537287712097,
+    "frame_path": "violations\\20260415_225801_396_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:01.627573",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      86,
+      88,
+      164
+    ],
+    "confidence": 0.840798020362854,
+    "frame_path": "violations\\20260415_225801_627_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:02.299912",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      237,
+      35,
+      321,
+      192
+    ],
+    "confidence": 0.8910807371139526,
+    "frame_path": "violations\\20260415_225802_299_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:02.311435",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      84,
+      90,
+      167
+    ],
+    "confidence": 0.8124673962593079,
+    "frame_path": "violations\\20260415_225802_311_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:02.669311",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      238,
+      33,
+      316,
+      198
+    ],
+    "confidence": 0.905240535736084,
+    "frame_path": "violations\\20260415_225802_669_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:02.681589",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      85,
+      90,
+      168
+    ],
+    "confidence": 0.8321155309677124,
+    "frame_path": "violations\\20260415_225802_681_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:03.047776",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      86,
+      92,
+      170
+    ],
+    "confidence": 0.8357634544372559,
+    "frame_path": "violations\\20260415_225803_047_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:03.171780",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 0,
+    "person_box": [
+      240,
+      25,
+      313,
+      204
+    ],
+    "confidence": 0.8719183802604675,
+    "frame_path": "violations\\20260415_225803_171_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:03.404421",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      86,
+      93,
+      169
+    ],
+    "confidence": 0.8286319375038147,
+    "frame_path": "violations\\20260415_225803_404_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:03.641640",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      237,
+      28,
+      308,
+      198
+    ],
+    "confidence": 0.879269003868103,
+    "frame_path": "violations\\20260415_225803_641_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:03.781749",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      89,
+      93,
+      171
+    ],
+    "confidence": 0.8022745847702026,
+    "frame_path": "violations\\20260415_225803_781_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:04.010562",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      229,
+      30,
+      304,
+      202
+    ],
+    "confidence": 0.8895375728607178,
+    "frame_path": "violations\\20260415_225804_010_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:04.134028",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      89,
+      92,
+      171
+    ],
+    "confidence": 0.8233596682548523,
+    "frame_path": "violations\\20260415_225804_134_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:04.154038",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      567,
+      2,
+      596,
+      128
+    ],
+    "confidence": 0.7679623365402222,
+    "frame_path": "violations\\20260415_225804_154_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:04.406684",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      220,
+      28,
+      301,
+      195
+    ],
+    "confidence": 0.8875060677528381,
+    "frame_path": "violations\\20260415_225804_406_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:04.536441",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      88,
+      90,
+      171
+    ],
+    "confidence": 0.8380522727966309,
+    "frame_path": "violations\\20260415_225804_536_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:04.786535",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      213,
+      29,
+      298,
+      197
+    ],
+    "confidence": 0.8886975646018982,
+    "frame_path": "violations\\20260415_225804_786_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:04.912728",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      87,
+      90,
+      171
+    ],
+    "confidence": 0.8446958065032959,
+    "frame_path": "violations\\20260415_225804_912_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:05.168923",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      208,
+      30,
+      297,
+      202
+    ],
+    "confidence": 0.9087449312210083,
+    "frame_path": "violations\\20260415_225805_168_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:05.181130",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      562,
+      13,
+      596,
+      152
+    ],
+    "confidence": 0.7399078607559204,
+    "frame_path": "violations\\20260415_225805_181_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:05.312986",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      86,
+      91,
+      171
+    ],
+    "confidence": 0.8135459423065186,
+    "frame_path": "violations\\20260415_225805_312_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:05.558842",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      206,
+      30,
+      292,
+      204
+    ],
+    "confidence": 0.9182046055793762,
+    "frame_path": "violations\\20260415_225805_558_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:05.689060",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      88,
+      91,
+      171
+    ],
+    "confidence": 0.825871467590332,
+    "frame_path": "violations\\20260415_225805_689_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:05.709896",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      556,
+      30,
+      596,
+      171
+    ],
+    "confidence": 0.7338299751281738,
+    "frame_path": "violations\\20260415_225805_709_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:05.947124",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      206,
+      30,
+      291,
+      204
+    ],
+    "confidence": 0.9080605506896973,
+    "frame_path": "violations\\20260415_225805_947_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:06.069956",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      89,
+      91,
+      173
+    ],
+    "confidence": 0.8014464974403381,
+    "frame_path": "violations\\20260415_225806_069_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:06.099373",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      551,
+      37,
+      595,
+      171
+    ],
+    "confidence": 0.7902069687843323,
+    "frame_path": "violations\\20260415_225806_099_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:06.339556",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      207,
+      29,
+      291,
+      205
+    ],
+    "confidence": 0.9144901633262634,
+    "frame_path": "violations\\20260415_225806_339_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:06.463155",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      546,
+      44,
+      593,
+      167
+    ],
+    "confidence": 0.7908236384391785,
+    "frame_path": "violations\\20260415_225806_463_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:06.485896",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      14,
+      88,
+      91,
+      172
+    ],
+    "confidence": 0.7878379225730896,
+    "frame_path": "violations\\20260415_225806_485_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:06.724636",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      210,
+      28,
+      291,
+      205
+    ],
+    "confidence": 0.9069539308547974,
+    "frame_path": "violations\\20260415_225806_724_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:06.850659",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      89,
+      91,
+      172
+    ],
+    "confidence": 0.8271350860595703,
+    "frame_path": "violations\\20260415_225806_850_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:06.871414",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      534,
+      53,
+      593,
+      174
+    ],
+    "confidence": 0.7277681827545166,
+    "frame_path": "violations\\20260415_225806_871_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:07.112870",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      210,
+      29,
+      289,
+      201
+    ],
+    "confidence": 0.8851991295814514,
+    "frame_path": "violations\\20260415_225807_112_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:07.234866",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      90,
+      90,
+      175
+    ],
+    "confidence": 0.8093571662902832,
+    "frame_path": "violations\\20260415_225807_234_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:07.254702",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      531,
+      62,
+      582,
+      177
+    ],
+    "confidence": 0.7487295866012573,
+    "frame_path": "violations\\20260415_225807_254_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:07.501369",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      210,
+      30,
+      289,
+      196
+    ],
+    "confidence": 0.8957135081291199,
+    "frame_path": "violations\\20260415_225807_501_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:07.624674",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      90,
+      90,
+      173
+    ],
+    "confidence": 0.8132461309432983,
+    "frame_path": "violations\\20260415_225807_624_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:07.653861",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      527,
+      76,
+      588,
+      175
+    ],
+    "confidence": 0.6425076127052307,
+    "frame_path": "violations\\20260415_225807_653_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:07.892104",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      206,
+      30,
+      288,
+      198
+    ],
+    "confidence": 0.9052122235298157,
+    "frame_path": "violations\\20260415_225807_892_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:08.018705",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      90,
+      90,
+      173
+    ],
+    "confidence": 0.7976755499839783,
+    "frame_path": "violations\\20260415_225808_018_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:08.038594",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      522,
+      83,
+      581,
+      176
+    ],
+    "confidence": 0.7433597445487976,
+    "frame_path": "violations\\20260415_225808_038_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:08.287642",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      201,
+      30,
+      291,
+      202
+    ],
+    "confidence": 0.9166820645332336,
+    "frame_path": "violations\\20260415_225808_287_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:08.416009",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      523,
+      86,
+      581,
+      176
+    ],
+    "confidence": 0.7985833883285522,
+    "frame_path": "violations\\20260415_225808_416_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:08.435238",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      14,
+      90,
+      91,
+      173
+    ],
+    "confidence": 0.7978732585906982,
+    "frame_path": "violations\\20260415_225808_435_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:08.740920",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      196,
+      33,
+      290,
+      201
+    ],
+    "confidence": 0.9178311824798584,
+    "frame_path": "violations\\20260415_225808_740_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:08.867322",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      90,
+      91,
+      173
+    ],
+    "confidence": 0.8211200833320618,
+    "frame_path": "violations\\20260415_225808_867_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:08.887727",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      525,
+      89,
+      580,
+      174
+    ],
+    "confidence": 0.8143988847732544,
+    "frame_path": "violations\\20260415_225808_887_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:09.134438",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      191,
+      35,
+      291,
+      202
+    ],
+    "confidence": 0.9202839136123657,
+    "frame_path": "violations\\20260415_225809_134_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:09.255361",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      89,
+      91,
+      173
+    ],
+    "confidence": 0.8226754069328308,
+    "frame_path": "violations\\20260415_225809_255_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:09.284805",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      527,
+      92,
+      580,
+      174
+    ],
+    "confidence": 0.798865795135498,
+    "frame_path": "violations\\20260415_225809_284_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:09.608392",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      191,
+      36,
+      290,
+      200
+    ],
+    "confidence": 0.9242433309555054,
+    "frame_path": "violations\\20260415_225809_608_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:09.734995",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      90,
+      89,
+      174
+    ],
+    "confidence": 0.7997612953186035,
+    "frame_path": "violations\\20260415_225809_734_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:09.756075",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      518,
+      92,
+      580,
+      174
+    ],
+    "confidence": 0.7113254070281982,
+    "frame_path": "violations\\20260415_225809_756_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:10.002169",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      191,
+      37,
+      291,
+      199
+    ],
+    "confidence": 0.9231249094009399,
+    "frame_path": "violations\\20260415_225810_002_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:10.124691",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      90,
+      89,
+      173
+    ],
+    "confidence": 0.7999378442764282,
+    "frame_path": "violations\\20260415_225810_124_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:10.143958",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      517,
+      93,
+      579,
+      175
+    ],
+    "confidence": 0.7293996214866638,
+    "frame_path": "violations\\20260415_225810_143_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:10.378819",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      190,
+      38,
+      292,
+      197
+    ],
+    "confidence": 0.9151270389556885,
+    "frame_path": "violations\\20260415_225810_378_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:10.509222",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      513,
+      98,
+      578,
+      177
+    ],
+    "confidence": 0.8400810956954956,
+    "frame_path": "violations\\20260415_225810_509_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:10.530478",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      13,
+      91,
+      90,
+      174
+    ],
+    "confidence": 0.7846032381057739,
+    "frame_path": "violations\\20260415_225810_530_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:10.770993",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      190,
+      38,
+      293,
+      200
+    ],
+    "confidence": 0.9210668206214905,
+    "frame_path": "violations\\20260415_225810_770_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:10.897394",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      513,
+      98,
+      578,
+      183
+    ],
+    "confidence": 0.8567641973495483,
+    "frame_path": "violations\\20260415_225810_897_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:10.927567",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      14,
+      91,
+      89,
+      173
+    ],
+    "confidence": 0.8336611986160278,
+    "frame_path": "violations\\20260415_225810_927_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:11.207215",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      190,
+      38,
+      295,
+      203
+    ],
+    "confidence": 0.9249358773231506,
+    "frame_path": "violations\\20260415_225811_207_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:11.332072",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      514,
+      96,
+      578,
+      182
+    ],
+    "confidence": 0.8528168201446533,
+    "frame_path": "violations\\20260415_225811_332_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:11.351926",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      14,
+      92,
+      89,
+      174
+    ],
+    "confidence": 0.8382838368415833,
+    "frame_path": "violations\\20260415_225811_351_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:11.580275",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      192,
+      40,
+      297,
+      202
+    ],
+    "confidence": 0.9280638098716736,
+    "frame_path": "violations\\20260415_225811_580_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:11.707064",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      92,
+      90,
+      174
+    ],
+    "confidence": 0.8572161793708801,
+    "frame_path": "violations\\20260415_225811_707_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:11.727997",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      516,
+      99,
+      579,
+      180
+    ],
+    "confidence": 0.827915370464325,
+    "frame_path": "violations\\20260415_225811_727_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:11.972592",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      192,
+      42,
+      297,
+      202
+    ],
+    "confidence": 0.9256218075752258,
+    "frame_path": "violations\\20260415_225811_972_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:12.104010",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      14,
+      93,
+      90,
+      175
+    ],
+    "confidence": 0.8481413125991821,
+    "frame_path": "violations\\20260415_225812_104_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:12.127587",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      516,
+      101,
+      575,
+      181
+    ],
+    "confidence": 0.8051276206970215,
+    "frame_path": "violations\\20260415_225812_127_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:12.367845",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      194,
+      43,
+      298,
+      201
+    ],
+    "confidence": 0.9237996339797974,
+    "frame_path": "violations\\20260415_225812_367_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:12.495106",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      93,
+      90,
+      175
+    ],
+    "confidence": 0.8393251895904541,
+    "frame_path": "violations\\20260415_225812_495_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:12.525894",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      516,
+      102,
+      578,
+      182
+    ],
+    "confidence": 0.7885464429855347,
+    "frame_path": "violations\\20260415_225812_525_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:12.762219",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      195,
+      44,
+      299,
+      201
+    ],
+    "confidence": 0.9229487180709839,
+    "frame_path": "violations\\20260415_225812_762_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:12.933778",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      511,
+      105,
+      571,
+      182
+    ],
+    "confidence": 0.813598096370697,
+    "frame_path": "violations\\20260415_225812_933_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:12.955496",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      12,
+      93,
+      89,
+      175
+    ],
+    "confidence": 0.8013039827346802,
+    "frame_path": "violations\\20260415_225812_955_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:13.201643",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      195,
+      45,
+      298,
+      199
+    ],
+    "confidence": 0.9282851815223694,
+    "frame_path": "violations\\20260415_225813_201_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:13.321244",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      503,
+      98,
+      576,
+      180
+    ],
+    "confidence": 0.8259668946266174,
+    "frame_path": "violations\\20260415_225813_321_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:13.341765",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      12,
+      93,
+      89,
+      175
+    ],
+    "confidence": 0.8082658648490906,
+    "frame_path": "violations\\20260415_225813_341_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:13.597622",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      194,
+      45,
+      298,
+      201
+    ],
+    "confidence": 0.9245284199714661,
+    "frame_path": "violations\\20260415_225813_597_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:13.738198",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      499,
+      101,
+      574,
+      179
+    ],
+    "confidence": 0.8478871583938599,
+    "frame_path": "violations\\20260415_225813_738_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:13.759459",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      14,
+      93,
+      88,
+      174
+    ],
+    "confidence": 0.8134953379631042,
+    "frame_path": "violations\\20260415_225813_759_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:14.001555",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      194,
+      43,
+      298,
+      201
+    ],
+    "confidence": 0.9261515140533447,
+    "frame_path": "violations\\20260415_225814_001_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:14.130999",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      497,
+      104,
+      574,
+      181
+    ],
+    "confidence": 0.8319882154464722,
+    "frame_path": "violations\\20260415_225814_130_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:14.152838",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      14,
+      93,
+      89,
+      175
+    ],
+    "confidence": 0.8170281648635864,
+    "frame_path": "violations\\20260415_225814_152_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:14.388622",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      195,
+      42,
+      299,
+      201
+    ],
+    "confidence": 0.9240063428878784,
+    "frame_path": "violations\\20260415_225814_388_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:14.516930",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      93,
+      88,
+      174
+    ],
+    "confidence": 0.8372743129730225,
+    "frame_path": "violations\\20260415_225814_516_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:14.537496",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      495,
+      105,
+      574,
+      181
+    ],
+    "confidence": 0.823019802570343,
+    "frame_path": "violations\\20260415_225814_537_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:14.788566",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      194,
+      42,
+      299,
+      203
+    ],
+    "confidence": 0.9247338771820068,
+    "frame_path": "violations\\20260415_225814_788_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:14.947987",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      495,
+      105,
+      574,
+      183
+    ],
+    "confidence": 0.8481930494308472,
+    "frame_path": "violations\\20260415_225814_947_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:14.970827",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      13,
+      94,
+      89,
+      175
+    ],
+    "confidence": 0.7925479412078857,
+    "frame_path": "violations\\20260415_225814_970_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:15.212674",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      193,
+      43,
+      299,
+      200
+    ],
+    "confidence": 0.9241775274276733,
+    "frame_path": "violations\\20260415_225815_212_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:15.335375",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      495,
+      104,
+      574,
+      182
+    ],
+    "confidence": 0.8489898443222046,
+    "frame_path": "violations\\20260415_225815_335_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:15.357415",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      13,
+      94,
+      89,
+      175
+    ],
+    "confidence": 0.7999049425125122,
+    "frame_path": "violations\\20260415_225815_357_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:15.598855",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      194,
+      42,
+      298,
+      200
+    ],
+    "confidence": 0.9179229736328125,
+    "frame_path": "violations\\20260415_225815_598_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:15.724314",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      495,
+      105,
+      573,
+      182
+    ],
+    "confidence": 0.8658077716827393,
+    "frame_path": "violations\\20260415_225815_724_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:15.745342",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      13,
+      93,
+      90,
+      176
+    ],
+    "confidence": 0.7826862335205078,
+    "frame_path": "violations\\20260415_225815_745_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:15.994877",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      193,
+      44,
+      298,
+      201
+    ],
+    "confidence": 0.9171738028526306,
+    "frame_path": "violations\\20260415_225815_994_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:16.121158",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      495,
+      106,
+      573,
+      183
+    ],
+    "confidence": 0.8461096882820129,
+    "frame_path": "violations\\20260415_225816_121_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:16.142835",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      13,
+      93,
+      90,
+      176
+    ],
+    "confidence": 0.7856510281562805,
+    "frame_path": "violations\\20260415_225816_142_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:16.402562",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      195,
+      44,
+      299,
+      201
+    ],
+    "confidence": 0.9190855026245117,
+    "frame_path": "violations\\20260415_225816_402_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:16.527653",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      495,
+      108,
+      575,
+      183
+    ],
+    "confidence": 0.8463523983955383,
+    "frame_path": "violations\\20260415_225816_527_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:16.549065",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      14,
+      95,
+      91,
+      174
+    ],
+    "confidence": 0.8150872588157654,
+    "frame_path": "violations\\20260415_225816_549_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:16.793907",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      195,
+      45,
+      298,
+      202
+    ],
+    "confidence": 0.9216919541358948,
+    "frame_path": "violations\\20260415_225816_793_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:16.916963",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      497,
+      106,
+      573,
+      184
+    ],
+    "confidence": 0.838781476020813,
+    "frame_path": "violations\\20260415_225816_916_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:16.938577",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      13,
+      94,
+      89,
+      175
+    ],
+    "confidence": 0.7955960631370544,
+    "frame_path": "violations\\20260415_225816_938_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:17.224390",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      194,
+      46,
+      298,
+      201
+    ],
+    "confidence": 0.9180896282196045,
+    "frame_path": "violations\\20260415_225817_224_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:17.353704",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      499,
+      102,
+      572,
+      184
+    ],
+    "confidence": 0.8417515158653259,
+    "frame_path": "violations\\20260415_225817_353_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:17.384591",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      13,
+      94,
+      89,
+      177
+    ],
+    "confidence": 0.7951697111129761,
+    "frame_path": "violations\\20260415_225817_384_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:17.622833",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      194,
+      45,
+      297,
+      199
+    ],
+    "confidence": 0.9202584624290466,
+    "frame_path": "violations\\20260415_225817_622_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:17.742884",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      93,
+      88,
+      176
+    ],
+    "confidence": 0.8304437398910522,
+    "frame_path": "violations\\20260415_225817_742_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:17.764114",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      498,
+      97,
+      574,
+      182
+    ],
+    "confidence": 0.8188285827636719,
+    "frame_path": "violations\\20260415_225817_764_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:18.014610",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      194,
+      44,
+      297,
+      198
+    ],
+    "confidence": 0.9200047850608826,
+    "frame_path": "violations\\20260415_225818_014_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:18.136460",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      498,
+      100,
+      577,
+      184
+    ],
+    "confidence": 0.8332750201225281,
+    "frame_path": "violations\\20260415_225818_136_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:18.158113",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      12,
+      93,
+      88,
+      175
+    ],
+    "confidence": 0.8296012878417969,
+    "frame_path": "violations\\20260415_225818_158_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:18.402766",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      193,
+      44,
+      297,
+      205
+    ],
+    "confidence": 0.9199401140213013,
+    "frame_path": "violations\\20260415_225818_402_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:18.532924",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      12,
+      94,
+      88,
+      175
+    ],
+    "confidence": 0.8145357370376587,
+    "frame_path": "violations\\20260415_225818_532_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:18.554845",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      499,
+      100,
+      568,
+      180
+    ],
+    "confidence": 0.7944835424423218,
+    "frame_path": "violations\\20260415_225818_554_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:18.808117",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      193,
+      44,
+      297,
+      205
+    ],
+    "confidence": 0.9200078845024109,
+    "frame_path": "violations\\20260415_225818_808_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:18.934581",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      94,
+      88,
+      175
+    ],
+    "confidence": 0.8332316279411316,
+    "frame_path": "violations\\20260415_225818_934_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:18.967092",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      495,
+      104,
+      567,
+      180
+    ],
+    "confidence": 0.6945376992225647,
+    "frame_path": "violations\\20260415_225818_967_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:19.240037",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      193,
+      44,
+      297,
+      201
+    ],
+    "confidence": 0.919468879699707,
+    "frame_path": "violations\\20260415_225819_240_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:19.368080",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      93,
+      88,
+      175
+    ],
+    "confidence": 0.839860737323761,
+    "frame_path": "violations\\20260415_225819_368_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:19.390760",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      475,
+      109,
+      569,
+      186
+    ],
+    "confidence": 0.7127972841262817,
+    "frame_path": "violations\\20260415_225819_390_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:19.631145",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      194,
+      44,
+      296,
+      201
+    ],
+    "confidence": 0.9179000854492188,
+    "frame_path": "violations\\20260415_225819_631_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T22:58:19.761497",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 1,
+    "person_box": [
+      13,
+      94,
+      88,
+      175
+    ],
+    "confidence": 0.8385969996452332,
+    "frame_path": "violations\\20260415_225819_761_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:19.787018",
+    "camera_id": "entrance",
+    "violation_type": "helmet_vest",
+    "person_idx": 2,
+    "person_box": [
+      483,
+      113,
+      572,
+      187
+    ],
+    "confidence": 0.8171202540397644,
+    "frame_path": "violations\\20260415_225819_787_entrance_missing_helmet_vest.jpg",
+    "present_classes": []
+  },
+  {
+    "timestamp": "2026-04-15T22:58:20.041203",
+    "camera_id": "entrance",
+    "violation_type": "helmet",
+    "person_idx": 0,
+    "person_box": [
+      194,
+      43,
+      296,
+      199
+    ],
+    "confidence": 0.9210125207901001,
+    "frame_path": "violations\\20260415_225820_041_entrance_missing_helmet.jpg",
+    "present_classes": [
+      "vest"
+    ]
+  }
+]
