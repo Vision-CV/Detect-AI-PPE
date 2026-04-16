@@ -44,7 +44,7 @@ pip install ultralytics opencv-python numpy
 ### 2. Запуск детекции на изображении
 
 ```bash
-python t.py
+python detect-ppe-on-video.py -source test/sto.mp4 --save-violations --output-dir violations --camera-id entrance
 ```
 
 Скрипт загружает изображение из `test/TEST.jpg` и отображает результаты детекции.
