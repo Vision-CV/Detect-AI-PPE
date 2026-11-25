@@ -1,0 +1,58 @@
+{
+  "schema": "ppe-incident/1",
+  "episode_id": "0d59265c5d424a2fae484aedbc5e9e07",
+  "status": "opened",
+  "camera_id": "cam_entrance",
+  "source": "test\\test_neg1.mp4",
+  "rule": "ppe",
+  "subject": "helmet",
+  "violation_type": "helmet",
+  "track_id": 3,
+  "track_ids": [
+    3
+  ],
+  "started_at": "2026-10-19T20:05:14.776",
+  "event_at": "2026-10-19T20:05:17.779",
+  "ended_at": null,
+  "duration_sec": null,
+  "violating_sec": 3.0,
+  "close_reason": null,
+  "confidence": 0.869,
+  "person_box": [
+    448,
+    49,
+    608,
+    242
+  ],
+  "present_classes": [
+    "vest"
+  ],
+  "position_2d_meters": null,
+  "frame_index": 90,
+  "video_offsets_ms": {
+    "started": 0,
+    "event": 3003,
+    "ended": null
+  },
+  "model": {
+    "pose": "yolov8n-pose.pt",
+    "ppe": "PPE_M_YOLO.pt",
+    "imgsz": 640
+  },
+  "evidence": [
+    {
+      "name": "frame_start.jpg",
+      "kind": "frame_start",
+      "content_type": "image/jpeg",
+      "size": 79959,
+      "sha256": "7c3c65e128f838a54ac45cd271b0888954cfad47e67c6e41b29e0da83614ae20"
+    },
+    {
+      "name": "raw_start.jpg",
+      "kind": "raw_start",
+      "content_type": "image/jpeg",
+      "size": 65060,
+      "sha256": "626e3b5300e3a43b86c59629150c46cd6521649dd4aa8f61f6ff4a42a4e15179"
+    }
+  ]
+}
