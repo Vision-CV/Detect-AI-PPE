@@ -1,19 +1,39 @@
-# Python
+# Python, тесты и локальные сборки пакета
 __pycache__/
 *.py[cod]
 *.egg-info/
-.pytest_cache/
-venv/
 .venv/
+venv/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+/ppe_monitor/build/
+/ppe_monitor/dist/
 
-# Большие бинарные артефакты: хранить вне git (LFS / облако / скачивание)
+# Модели, датасеты, локальные видео и результаты Ultralytics
 models_weights/
 datasets/
-test/*.mp4
-test/*.webm
+runs/
+**/test/*.mp4
+**/test/*.webm
+**/test/*.avi
+**/test/*.mov
 
-# Данные работы системы (содержат фото людей — персональные данные)
-data/
+# Снимки инцидентов, клипы, базы приёмника, очереди доставки и журналы
+/data/
+/ppe_monitor/data/
 *.log
-.coverage
-htmlcov/
+/VisDash/wwwroot/data/artifacts/
+/VisLinux/wwwroot/data/artifacts/
+/VisDash/VisData.db*
+/VisLinux/VisData.db*
+
+# Локальные секреты и файлы рабочей станции
+.env
+.env.*
+!.env.example
+!.env.sample
+Thumbs.db
+Desktop.ini
+.DS_Store
