@@ -1,0 +1,109 @@
+# Конфигурация PPE Monitor.
+# Относительные пути считаются от папки, где лежит этот файл.
+# Значение "auto" подбирается под железо при запуске (см. src/ppe_monitor/hardware.py).
+# Любой параметр можно переопределить своим файлом: --config my.yaml
+
+camera_id: cam_entrance
+
+source:
+  uri: "0"                      # индекс камеры, путь к видео или rtsp://...
+  resize_width: null            # ширина кадра перед обработкой (null — как есть)
+  process_every_n_frames: auto  # для видеофайлов: обрабатывать каждый N-й кадр
+  reconnect_attempts: 5         # для потоков; 0 — бесконечно
+  reconnect_delay_sec: 2.0
+
+hardware:
+  device: auto                  # auto | cpu | cuda | cuda:0 | mps
+  half: auto                    # FP16 (только CUDA и только .pt-модели)
+  torch_threads: auto
+
+models:
+  pose: models_weights/yolov8n-pose.pt   # люди + ключевые точки + трекинг
+  ppe: models_weights/PPE_M_YOLO.pt      # классы: boots, gloves, helmet, human, vest
+  imgsz: auto                   # для .onnx/.engine — строго размер, с которым экспортировали
+  person_conf: 0.5
+  ppe_conf: 0.35                # ниже, чем для людей: пропущенная каска = ложное нарушение
+  iou: 0.5
+  tracker: bytetrack.yaml
+  ignore_classes: [human, person]
+
+rules:
+  required_ppe: [helmet, vest]
+  ppe_regions:                  # где на теле должно быть СИЗ: head | torso | body
+    helmet: head
+    vest: torso
+  max_width_ratio:              # макс. ширина СИЗ относительно ширины человека
+    helmet: 1.2
+    vest: 1.6
+  max_per_person:               # сколько штук одного класса может быть у человека (по умолчанию 1)
+    gloves: 2
+    boots: 2
+  keypoint_min_visibility: 0.3
+  edge_margin_px: 4
+  zones_file: null              # запретные зоны, например zones.yaml (см. tools/draw_zones.py)
+
+timing:                         # гистерезис, отдельно для каждого правила (секунды, не кадры)
+  ppe:
+    enter_sec: 3.0              # СИЗ нет 3 с → нарушение (оповещение)
+    exit_sec: 5.0               # СИЗ видно 5 с подряд → нарушение устранено
+    enter_ratio: 0.6            # доля «нет СИЗ» в окне 3 с (защита от мигания детектора)
+    lost_ttl_sec: 30.0          # сколько помнить ушедшего из кадра нарушителя
+    reminder_sec: 0             # повторное оповещение, пока нарушение длится (0 — выкл.)
+    max_gap_sec: 2.0            # пауза между кадрами длиннее — «не видно» (должна быть > интервала кадров)
+  zone:
+    enter_sec: 1.0
+    exit_sec: 3.0
+
+tracking:
+  reid_max_distance: 1.0        # новый трек ближе N ростов к пропавшему нарушителю наследует его эпизод
+
+evidence:                       # доказательства в пакете инцидента
+  jpeg_quality: 90
+  clip_enabled: true
+  clip_pre_sec: 5               # клип: секунд до подтверждения
+  clip_post_sec: 5              #        и после
+  clip_width: 960
+  clip_codec: mp4v              # avc1 (H.264) играет в браузере, но нужна библиотека OpenH264
+  blur_faces: false             # размывать головы на отправляемых кадрах/клипе (исходник — только локально)
+
+storage:                        # локальная копия пакетов + журнал
+  enabled: true
+  incidents_dir: data/incidents
+  journal_file: data/logs/incidents.jsonl
+
+receiver:                       # приёмник пакетов: python -m ppe_receiver
+  enabled: true
+  url: http://localhost:8000/api/v1/incidents
+  ssl_verify: true
+  timeout_sec: 30
+  retry_max_delay_sec: 60
+  shutdown_drain_sec: 15        # при выходе досылать очередь (если сервер доступен)
+  outbox_dir: data/outbox/receiver
+
+visdash:                        # старый дашборд: только оповещение при открытии нарушения
+  enabled: true
+  url: http://localhost:5000/api/metrics/send-incident
+  cam_id: null                  # null — цифры из camera_id ("cam_25" -> 25, иначе 0)
+  room_id: 42526769
+  priority: 1
+  ssl_verify: false             # false — для самоподписанного сертификата localhost
+  timeout_sec: 10
+  retry_max_delay_sec: 60
+  outbox_dir: data/outbox/visdash
+  incident_types:               # violation_type / правило / default -> поле Type в API.
+    default: 0                  # ВАЖНО: значения нужно согласовать с разработчиком дашборда
+    # helmet: 1
+    # vest: 2
+    # zone: 4
+
+display:
+  enabled: true
+  window_name: PPE Monitoring
+
+logging:
+  level: INFO
+  file: data/logs/ppe_monitor.log
+
+calibration:                    # проекция на план пола (4 пары точек), иначе null
+  image_points: null            # [[x, y], ...] в пикселях кадра
+  world_points: null            # [[x, z], ...] в метрах
