@@ -1,20 +1,14 @@
-"""Оповещения в старый дашборд VisDash (контракт без изменений).
-
-VisDash принимает только кадр + 4 поля, поэтому сюда уходит лишь факт
-открытия эпизода. Полные пакеты получает приёмник (sinks/receiver.py).
-
-Формат: multipart/form-data
-  image    — JPEG-снимок
-  incident — JSON {"CamId", "RoomId", "Type", "Priority"}
-Заголовок Idempotency-Key = episode_id.
-"""
+"""Отправка JPEG и метаданных открытого эпизода в Metrics API."""
 
 from __future__ import annotations
 
 import json
 import logging
+import os
 import re
+from datetime import UTC
 from typing import Any
+from uuid import UUID
 
 import requests
 
@@ -62,10 +56,12 @@ class VisDashSink:
         if image is None:
             return
         payload = {
-            "CamId": self._cfg.cam_id if self._cfg.cam_id is not None else cam_id_from(e.camera_id),
-            "RoomId": self._cfg.room_id,
-            "Type": self.incident_type(e.violation_type, e.rule),
-            "Priority": self._cfg.priority,
+            "camId": self._cfg.cam_id if self._cfg.cam_id is not None else cam_id_from(e.camera_id),
+            "roomId": self._cfg.room_id,
+            "type": self.incident_type(e.violation_type, e.rule),
+            "priority": self._cfg.priority,
+            "status": 0,
+            "date": package.started_at.astimezone(UTC).isoformat(),
         }
         meta = {"episode_id": e.episode_id, "violation_type": e.violation_type, "payload": payload}
         self._outbox.put(ALERTS, e.episode_id, meta, {"image.jpg": image})
@@ -73,12 +69,25 @@ class VisDashSink:
 
     def _send(self, item: OutboxItem) -> SendResult:
         meta = item.meta
+        # Старые элементы очереди содержат CamId/RoomId/Type/Priority.
+        payload = {k[0].lower() + k[1:]: v for k, v in meta["payload"].items()}
+        payload.setdefault("status", 0)
+        try:
+            payload["guid"] = str(UUID(meta["episode_id"]))
+        except ValueError:
+            pass  # Для старых не-UUID идентификатор назначает сервер.
+        headers = {"Idempotency-Key": meta["episode_id"]}
+        if key := os.getenv("PPE_VISDASH_API_KEY"):
+            headers["X-API-Key"] = key
+        elif token := os.getenv("PPE_VISDASH_BEARER_TOKEN"):
+            headers["Authorization"] = f"Bearer {token}"
         try:
             response = self._session.post(
                 self._cfg.url,
                 files={"image": ("image.jpg", item.files()["image.jpg"].read_bytes(), "image/jpeg")},
-                data={"incident": json.dumps(meta["payload"])},
-                headers={"Idempotency-Key": meta["episode_id"]},
+                data={"incident": json.dumps(payload)},
+                headers=headers,
+                allow_redirects=False,
                 timeout=self._cfg.timeout_sec,
                 verify=self._cfg.ssl_verify,
             )

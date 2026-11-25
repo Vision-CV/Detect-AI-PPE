@@ -155,7 +155,7 @@ class VisDashConfig:
     """Старый дашборд VisDash: только оповещение (кадр + 4 поля) при открытии эпизода."""
 
     enabled: bool = False
-    url: str = "http://localhost:5000/api/metrics/send-incident"
+    url: str = "http://localhost:5000/api/Metrics/send-incident"
     cam_id: int | None = None  # None — взять цифры из camera_id
     room_id: int = 0
     priority: int = 1
@@ -166,7 +166,7 @@ class VisDashConfig:
     outbox_dir: Path = field(default=Path("data/outbox/visdash"), metadata=_PATH)
     # violation_type ("helmet", "zone:crane") или правило ("ppe", "zone") или
     # "default" -> числовой Type в API дашборда.
-    incident_types: dict[str, int] = field(default_factory=lambda: {"default": 0})
+    incident_types: dict[str, int] = field(default_factory=lambda: {"default": 0, "zone": 2})
 
 
 @dataclass(frozen=True)

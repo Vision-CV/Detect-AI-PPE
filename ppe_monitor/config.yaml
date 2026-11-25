@@ -82,7 +82,7 @@ receiver:                       # приёмник пакетов: python -m ppe
 
 visdash:                        # старый дашборд: только оповещение при открытии нарушения
   enabled: true
-  url: http://localhost:5000/api/metrics/send-incident
+  url: http://localhost:5000/api/Metrics/send-incident
   cam_id: null                  # null — цифры из camera_id ("cam_25" -> 25, иначе 0)
   room_id: 42526769
   priority: 1
@@ -91,10 +91,8 @@ visdash:                        # старый дашборд: только оп
   retry_max_delay_sec: 60
   outbox_dir: data/outbox/visdash
   incident_types:               # violation_type / правило / default -> поле Type в API.
-    default: 0                  # ВАЖНО: значения нужно согласовать с разработчиком дашборда
-    # helmet: 1
-    # vest: 2
-    # zone: 4
+    default: 0                  # NoPPE
+    zone: 2                     # ZoneTimeout
 
 display:
   enabled: true

@@ -180,7 +180,8 @@ def visdash_cfg(tmp_path):
     )
 
 
-def test_visdash_sends_only_opened(visdash_cfg):
+def test_visdash_sends_only_opened(visdash_cfg, monkeypatch):
+    monkeypatch.setenv("PPE_VISDASH_API_KEY", "test-key")
     session = FakeSession(200)
     sink = VisDashSink(visdash_cfg, session=session, idle_poll_sec=0.05)
     sink.publish(make_package(EpisodeKind.OPENED))
@@ -190,7 +191,10 @@ def test_visdash_sends_only_opened(visdash_cfg):
     sink.close()
 
     [call] = session.calls
-    assert json.loads(call["data"]["incident"]) == {"CamId": 7, "RoomId": 5, "Type": 1, "Priority": 1}
+    payload = json.loads(call["data"]["incident"])
+    assert datetime.fromisoformat(payload.pop("date")).timestamp() == make_package().started_at.timestamp()
+    assert payload == {"camId": 7, "roomId": 5, "type": 1, "priority": 1, "status": 0}
+    assert call["headers"]["X-API-Key"] == "test-key"
     assert call["files"]["image"][1] == b"START"
     assert call["headers"]["Idempotency-Key"] == "ep1"
 

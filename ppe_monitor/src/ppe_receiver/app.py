@@ -21,6 +21,7 @@ from fastapi import FastAPI, File, Form, Header, HTTPException, UploadFile
 from fastapi.responses import FileResponse, HTMLResponse, JSONResponse
 
 from ppe_receiver.store import SAFE_NAME, STATUS_RANK, Store
+from ppe_receiver.metrics import metrics_router
 
 logger = logging.getLogger("ppe_receiver")
 
@@ -42,6 +43,7 @@ def create_app(data_dir: Path) -> FastAPI:
 
     app = FastAPI(title="PPE Incident Receiver", version="1.0", lifespan=lifespan)
     app.state.store = store
+    app.include_router(metrics_router(store))
 
     @app.post("/api/v1/incidents", status_code=201)
     async def receive(

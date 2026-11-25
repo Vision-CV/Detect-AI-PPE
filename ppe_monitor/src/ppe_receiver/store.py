@@ -7,6 +7,7 @@
 
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sqlite3
@@ -49,6 +50,12 @@ CREATE TABLE IF NOT EXISTS files (
     PRIMARY KEY (episode_id, name)
 );
 CREATE INDEX IF NOT EXISTS idx_episodes_started ON episodes(started_at DESC);
+CREATE TABLE IF NOT EXISTS metrics_incidents (
+    guid TEXT PRIMARY KEY, camId INTEGER NOT NULL, roomId INTEGER NOT NULL,
+    status INTEGER NOT NULL, type INTEGER NOT NULL, priority INTEGER NOT NULL,
+    date TEXT NOT NULL, artifact BLOB, creation_hash BLOB NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_metrics_date ON metrics_incidents(date DESC);
 """
 
 
@@ -140,3 +147,47 @@ class Store:
 
     def close(self) -> None:
         self._db.close()
+
+    def create_incident(self, fields: dict, image: bytes, *, generated_date: bool) -> bool:
+        original = {**fields, "date": None if generated_date else fields["date"]}
+        digest = hashlib.sha256(json.dumps(original, sort_keys=True).encode())
+        digest.update(image)
+        fingerprint = digest.digest()
+        with self._lock, self._db:
+            inserted = self._db.execute(
+                """INSERT INTO metrics_incidents (guid, camId, roomId, status, type, priority, date, artifact, creation_hash)
+                   VALUES (:guid, :camId, :roomId, :status, :type, :priority, :date, :artifact, :creation_hash)
+                   ON CONFLICT(guid) DO NOTHING""",
+                {**fields, "artifact": image or None, "creation_hash": fingerprint},
+            )
+            if inserted.rowcount:
+                return True
+            existing = self._db.execute(
+                "SELECT creation_hash FROM metrics_incidents WHERE guid=?", (fields["guid"],)
+            ).fetchone()
+            return existing[0] == fingerprint
+
+    def incidents(self, guid: str | None = None) -> list[dict]:
+        query = "SELECT guid, camId, roomId, status, type, priority, date FROM metrics_incidents"
+        with self._lock:
+            if guid is not None:
+                rows = self._db.execute(query + " WHERE guid=?", (guid,))
+            else:
+                rows = self._db.execute(query + " ORDER BY date DESC, rowid DESC")
+            return [dict(row) for row in rows]
+
+    def artifact(self, guid: str) -> bytes | None:
+        with self._lock:
+            row = self._db.execute("SELECT artifact FROM metrics_incidents WHERE guid=?", (guid,)).fetchone()
+            return row[0] if row else None
+
+    def update_incident(self, fields: dict) -> bool:
+        with self._lock, self._db:
+            return self._db.execute(
+                """UPDATE metrics_incidents SET camId=:camId, roomId=:roomId, status=:status,
+                   type=:type, priority=:priority WHERE guid=:guid""", fields,
+            ).rowcount == 1
+
+    def delete_incident(self, guid: str) -> bool:
+        with self._lock, self._db:
+            return self._db.execute("DELETE FROM metrics_incidents WHERE guid=?", (guid,)).rowcount == 1

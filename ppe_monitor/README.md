@@ -22,6 +22,37 @@ py -3.11 main.py --source test\test_neg1.mp4
 `--device cuda`, `--max-frames 100`, `--camera-id cam_25`, `--config my.yaml`, `-v`.
 Все настройки — в [config.yaml](config.yaml); флаги переопределяют его.
 
+## Инциденты VSpark
+
+При запуске `ppe-receiver` доступны шесть маршрутов с префиксом `/api/Metrics`.
+Их схемы и форму для проверки запросов можно открыть на `http://127.0.0.1:8000/docs`.
+Для установки зависимостей приёмника выполните `py -3.11 -m pip install -e ".[receiver]"` из папки `ppe_monitor`.
+
+| Операция | Маршрут | Доступ |
+|---|---|---|
+| Список по убыванию даты | GET /incidents | Авторизованный |
+| Метаданные | GET /incidents/{guid} | Авторизованный |
+| JPEG | GET /incidents/{guid}/artifact | Авторизованный |
+| Создание из multipart-полей incident и image | POST /send-incident | SA |
+| Обновление camId, roomId, status, type и priority | PATCH /patch-incident | SA |
+| Удаление записи вместе с JPEG | DELETE /delete-incident?guid={guid} | SA |
+
+Задайте в окружении приёмника `PPE_METRICS_API_KEY` для доступа с ролью SA через
+`X-API-Key`. Для Bearer JWT настройте `PPE_METRICS_JWT_SECRET` (общий секрет HS256
+с вашим издателем, минимум 32 случайных байта), а также `PPE_METRICS_JWT_ISSUER`
+и `PPE_METRICS_JWT_AUDIENCE` согласно полям токена. Приёмник проверяет подпись
+и срок действия `exp`. Для записи требуется значение SA в role, roles или стандартном
+URI роли .NET.
+
+Чтобы направить оповещения монитора в этот приёмник, задайте `visdash.url` равным
+`http://127.0.0.1:8000/api/Metrics/send-incident`. В окружении монитора задайте
+`PPE_VISDASH_API_KEY` (значение ключа приёмника) или `PPE_VISDASH_BEARER_TOKEN`
+(действующий JWT с ролью SA). Для удалённого сервера используйте HTTPS и
+`visdash.ssl_verify: true`. При открытии эпизода монитор отправляет статус Pending,
+тип NoPPE для СИЗ или ZoneTimeout для запретной зоны, время начала и стартовый кадр.
+Инциденты Metrics хранятся в отдельной таблице SQLite вместе с JPEG. Пакеты
+эпизодов и клипы доступны через существующий API `/api/v1/incidents`.
+
 ## Архитектура
 
 ```
